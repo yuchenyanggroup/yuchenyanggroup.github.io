@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yuchen Yang's publications
+title: Yang Group's publications
 ---
 
 <div class="navbar">
