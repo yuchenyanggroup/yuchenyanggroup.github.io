@@ -39,12 +39,7 @@ The focus of my research is on the development of statistical methods for single
 
 ---
 
-### HONORS AND AWARDS
-2015 - 2017 Academic Scholarship Award of Chang Hungta Science Foundation, Sun Yat-sen University<br/>
-2015    National Scholarship Award for Graduate Students, China<br/>
-2015    Wang Bosun Ecology Scholarship Award, Sun Yat-sen University<br/>
-2015    Second Prize for Outstanding Graduate Award, State Key Laboratory of Biocontrol, Sun Yat-sen University<br/>
-2008 - 2010 First Prize Scholarship Award for Undergraduate Students, Sun Yat-Sen University<br/>
+
 
 ---
 
@@ -53,7 +48,7 @@ The focus of my research is on the development of statistical methods for single
 <div class="container">
     <div class="row-fluid">
             <b>Email</b>: yyuchen@email.unc.edu<br/>
-            <b>Office</b>: Medical Biomolecular Research Bldg., 111 Mason Farm Road, Chapel Hill, NC 27599<br/>
+            <b>Office</b>: Hedanqing 302, Sun Yat-sen University South Campus, Xingangxi Road No. 135, Guangzhou, Guangdong 510275<br/>
             <b>GitHub</b>: <a href="https://github.com/yycunc">https://github.com/yycunc</a><br/>
     </div>
 </div>
