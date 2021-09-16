@@ -13,7 +13,7 @@ The focus of my research is on the development of statistical methods for single
 
 The Yang Group is located in the School of Ecology at Shenzhen Campus. Our group covers a full spectrum of research in the plant adaptation area from study design, data collection, analysis, and subsequent wet-lab follow-up. We are pround of that we offer a great and relaxed research environment (great location, graduate programs, computing facilities, etc.). We welcome new members from a wide range of disciplines to join in our group.
 
-Our group has been actively participating in a number of collaborative researches, both internally at SYSU and externally. Our collaboraters, such as Drs. Suhua Shi, Renchao Zhou, Hao Chen, Yuan Zou and Ying Pan, are experts in plant metabolism and environmental response. There are also numerous bright graduate/undergraduate students, postdoctoral fellows, and research scientists in the vicinity whom we enjoy working with on a daily basis.
+Our group has been actively participating in a number of collaborative researches, both internally at SYSU and externally. Our collaboraters, such as Drs. Suhua Shi, Renchao Zhou, Hao Chen, Yuan Zou and Ying Pan, are experts in plant metabolism and environmental response. There are also numerous bright graduate and undergraduate students, postdoctoral fellows and research scientists in the vicinity whom we enjoy working with on a daily basis.
 
 ---
 
