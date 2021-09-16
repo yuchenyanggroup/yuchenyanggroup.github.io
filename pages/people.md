@@ -24,8 +24,8 @@ description: Yang Group members
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/Yuchen.jpeg">
-            <img src="../assets/Yuchen.jpeg" height="150" width="210" title="Wenxu Ren" alt="Wenxu Ren"/>
+        <a href="../assets/Wenxu.jpeg">
+            <img src="../assets/Wenxu.jpeg" height="150" width="210" title="Wenxu Ren" alt="Wenxu Ren"/>
         </a>
         </div>
     </div>
