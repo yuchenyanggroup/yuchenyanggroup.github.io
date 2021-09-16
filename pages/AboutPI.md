@@ -17,12 +17,16 @@ title: About PI
 
 <div class="container">
     <div class="row-fluid">
-            2020.05 - 2021.08:  <b>Research Assistant Professor</b><br/>
-            <a href="https://www.med.unc.edu/pathology/">Department of Pathology and Laboratory Medicine</a><br/>
-            <a href="https://www.med.unc.edu/mhi/">McAllister Heart Institute</a><br/>
-            University of North Carolina, Chapel Hill <br/><br/>
+            2021.09 - present:  <b>Associate Professor</b><br/>
+            <a href="http://eco.sysu.edu.cn/">School of Ecology</a><br/>
+            Sun Yat-sen University <br/><br/>
     </div>
 </div>
+
+2020.05 - 2021.08:  <b>Research Assistant Professor</b><br/>
+    <a href="https://www.med.unc.edu/pathology/">Department of Pathology and Laboratory Medicine</a><br/>
+    <a href="https://www.med.unc.edu/mhi/">McAllister Heart Institute</a><br/>
+    University of North Carolina, Chapel Hill <br/>
 
 2016.09 - 2020.04:  <b>Postdoctoral Fellow</b><br/>
     Advisor: [Dr. Yun Li](https://www.med.unc.edu/genetics/directory/yun-li-phd/)<br/>
