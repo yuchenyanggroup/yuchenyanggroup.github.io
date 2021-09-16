@@ -7,8 +7,8 @@ description: Yang Group members
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Yuchao.jpg">
-            <img src="../assets/pics/Yuchao.jpg" height="200" width="200" title="Yuchao Jiang" alt="Yuchao Jiang"/>
+        <a href="assets/Yuchen.jpg">
+            <img src="assets/Yuchen.jpg" height="210" width="150" title="Yuchen Yang" alt="Yuchen Yang"/>
         </a>
         </div>
     </div>
@@ -24,8 +24,8 @@ description: Yang Group members
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Yuriko.jpg">
-            <img src="../assets/pics/Yuriko.jpg" height="200" width="200" title="Yuriko Harigaya" alt="Yuriko Harigaya"/>
+        <a href="assets/Wenxu.jpg">
+            <img src="assets/Wenxu.jpg" height="210" width="150" title="Wenxu Ren" alt="Wenxu Ren"/>
         </a>
         </div>
     </div>
