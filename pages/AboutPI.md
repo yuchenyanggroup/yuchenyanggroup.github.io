@@ -17,19 +17,19 @@ title: About PI
 
 <div class="container">
     <div class="row-fluid">
-            2020 - present:  <b>Research Assistant Professor</b><br/>
+            2020.05 - 2021.08:  <b>Research Assistant Professor</b><br/>
             <a href="https://www.med.unc.edu/pathology/">Department of Pathology and Laboratory Medicine</a><br/>
             <a href="https://www.med.unc.edu/mhi/">McAllister Heart Institute</a><br/>
             University of North Carolina, Chapel Hill <br/><br/>
     </div>
 </div>
 
-2016 - 2020:  <b>Postdoctoral Fellow</b><br/>
+2016.09 - 2020.04:  <b>Postdoctoral Fellow</b><br/>
     Advisor: [Dr. Yun Li](https://www.med.unc.edu/genetics/directory/yun-li-phd/)<br/>
     <a href="https://www.med.unc.edu/genetics/">Department of Genetics</a><br/>
     University of North Carolina, Chapel Hill<br/>
 
-2011 - 2016:  <b>Graduate/Ph.D. Student</b><br/>
+2011.09 - 2016.08:  <b>Graduate/Ph.D. Student</b><br/>
     Major: Biochemistry and Molecular Biology<br/>
     Advisor: [Dr. Suhua Shi](http://evolution.sysu.edu.cn/Our_team.html)<br/>
     School of Life Science<br/>
