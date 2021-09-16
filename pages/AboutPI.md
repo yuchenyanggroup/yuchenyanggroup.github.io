@@ -6,8 +6,8 @@ title: About PI
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="assets/Yuchen.jpg">
-            <img src="assets/Yuchen.jpg" height="210" width="150" title="Yuchen Yang" alt="Yuchen Yang"/>
+        <a href="../assets/Yuchen.jpg">
+            <img src="../assets/Yuchen.jpg" height="210" width="150" title="Yuchen Yang" alt="Yuchen Yang"/>
         </a>
         </div>
     </div>
