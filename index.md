@@ -9,37 +9,15 @@ The focus of my research is on the development of statistical methods for single
 
 ---
 
-### PROFESSIONAL EXPERIENCE AND EDUCATION
+### ACADEMIC ENVIRONMENT
 
-<div class="container">
-    <div class="row-fluid">
-            2020 - present:  <b>Research Assistant Professor</b><br/>
-            <a href="https://www.med.unc.edu/pathology/">Department of Pathology and Laboratory Medicine</a><br/>
-            <a href="https://www.med.unc.edu/mhi/">McAllister Heart Institute</a><br/>
-            University of North Carolina, Chapel Hill <br/><br/>
-    </div>
-</div>
+The Yang Group is located in the School of Ecology at Shenzhen Campus. Our group covers a full spectrum of research in the plant adaptation area from study design, data collection, analysis, and subsequent wet-lab follow-up. We are pround of that we offer a great and relaxed research environment (great location, graduate programs, computing facilities, etc.). We welcome new members from a wide range of disciplines to join in our group.
 
-2016 - 2020:  <b>Postdoctoral Fellow</b><br/>
-    Advisor: [Dr. Yun Li](https://www.med.unc.edu/genetics/directory/yun-li-phd/)<br/>
-    <a href="https://www.med.unc.edu/genetics/">Department of Genetics</a><br/>
-    University of North Carolina, Chapel Hill<br/>
-
-2011 - 2016:  <b>Graduate/Ph.D. Student</b><br/>
-    Major: Biochemistry and Molecular Biology<br/>
-    Advisor: [Dr. Suhua Shi](http://evolution.sysu.edu.cn/Our_team.html)<br/>
-    School of Life Science<br/>
-    Sun Yat-sen University, Guangzhou, China<br/>
-
-
-2007 - 2011:  <b>Undergraduate/B.S. Student</b><br/>
-    Major: Biotechnology<br/>
-    School of Life Science<br/>
-    Sun Yat-sen University, Guangzhou, China<br/>
+Our group has been actively participating in a number of collaborative researches, both internally at SYSU and externally. Our collaboraters, such as Drs. Suhua Shi, Renchao Zhou, Hao Chen, Yuan Zou and Ying Pan, are experts in plant metabolism (nitrogen, sulfur, ...) and environmental response (salt, pollutes, ...). There are also numerous bright graduate/undergraduate students, postdoctoral fellows, and research scientists in the vicinity whom we enjoy working with on a daily basis.
 
 ---
 
-
+### GROUP FUN
 
 ---
 
