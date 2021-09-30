@@ -16,7 +16,7 @@ description: Yang Group members
 
 <div class="cv">
 	Yuchen Yang, Principal Investigator <br/>
-	<a href="../assets/Curriculum Vitae_Yuchen_Yang.pdf" title="Download CV as PDF">Download CV</a> <br/>
+	<a href="../assets/Curriculum Vitae_Yuchen_Yang.pdf" title="Download CV as PDF">View/Download CV</a> <br/>
 </div>
 
 <br/>
