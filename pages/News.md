@@ -4,6 +4,10 @@ title: News
 ---
 
 ## 2021
+<b>October 31, 2021</b><br/> 
+The research article "eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data" I co-coresponding-authored is accepted for publication in ***Briefings in Bioinformatics***.<br/>
+<br/>
+
 <b>September 11, 2021</b><br/> 
 The research article "HPRep: quantifying reproducibility in HiChIP and PLAC-seq datasets" I co-authored is accepted for publication in ***Current Issues in Molecular Biology***.<br/>
 <br/>
