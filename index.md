@@ -26,8 +26,8 @@ Our group has been actively participating in a number of collaborative researche
 
 <div class="container">
     <div class="row-fluid">
-            <b>Email</b>: yyuchen@email.unc.edu<br/>
+            <b>Email</b>: yangych68@mail.sysu.edu.cn<br/>
             <b>Office</b>: Hedanqing 302, Sun Yat-sen University South Campus, Xingangxi Road No. 135, Guangzhou, Guangdong 510275<br/>
-            <b>GitHub</b>: <a href="https://github.com/yycunc">https://github.com/yycunc</a><br/>
+            <b>GitHub</b>: <a href="https://github.com/yuchenyanggroup.github.io">https://github.com/yuchenyanggroup.github.io</a><br/>
     </div>
 </div>
