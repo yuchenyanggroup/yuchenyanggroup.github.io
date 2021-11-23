@@ -124,3 +124,8 @@ title: Yang Group's publications
 
 <ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;"><b>Yang, Y.</b>, Yang, S., Fang, L., Li, J., Zhong, C., Zhou, R., Shi, S. (2015) Phylogenetic position of <i>Sonneratia  griffithii</i>  based on sequences of the nuclear ribosomal internal transcribed spacer and 13 nuclear genes. <i><b>Journal of Systematics and Evolution</b></i>, 53(1): 47-52. <<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jse.12102">link</a>></span></li></ol>
 
+### 2014
+<ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;"><b>杨宇晨</b>, 李建芳, 郭无瑕, 钟才荣, 周仁超, 施苏华. (2014) 植物物种形成的模式与机制. <i><b>生命科学</b></i>, 26: 138-143.</span></li></ol>
+
+### 2011
+<ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;"><b>杨宇晨</b>, 施苏华. (2011) 亟待保护的中国红树林. <i><b>生命世界</b></i>, 26: 138-143.</span></li></ol>
