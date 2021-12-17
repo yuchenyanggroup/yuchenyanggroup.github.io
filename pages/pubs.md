@@ -21,7 +21,7 @@ title: Yang Group's publications
 <ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2021+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
 
 ### 2022
-<ol start="50" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Janghorban, M.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Zhao, N., Hamor, C., Nguyen, T., Zhang, X., Rosen, J. (2022) Single Cell Analysis Unveils the Role of the Tumor Immune Microenvironment and Notch Signaling in Dormant Minimal Residual Disease. <i><b>Cancer Research</b></i>. Accepted.
+<ol start="50" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Janghorban, M.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Zhao, N., Hamor, C., Nguyen, T., Zhang, X., Rosen, J. (2022) Single Cell Analysis Unveils the Role of the Tumor Immune Microenvironment and Notch Signaling in Dormant Minimal Residual Disease. <i><b>Cancer Research</b></i>. Accepted. </span></li></ol>
 
 <ol start="49"> <li> Xu, S., Guo, Z., Feng, X., Shao, S., <b>Yang, Y.</b>, Li, J., Zhong, C., He, Z., Shi, S. (2022) Where whole-genome duplication is most beneficial - Adaptation of mangroves to a wide salinity range between land and sea. <i><b>Molecular Ecology</b></i>. DOI: 10.1111/mec.16320. PMID: 34882881. <<a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.16320">link</a>></li></ol>
 
