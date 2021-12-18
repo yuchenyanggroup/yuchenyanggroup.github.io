@@ -14,14 +14,16 @@ title: Yang Group's publications
 <u>Lab Member</u>; &dagger;: Co-first authors; &sect;: Corresponding or co-corresponding authors.
 
 ### Preprint
-<ol start="3"> <li> Taylor, L., <b>Yang, Y.</b>, Harigaya, Y., Ulirsch, J., Sankaran, V., Hu, M., Reiner, A., Raffield, L., Wen, J., Li, Y. (2021+) Super interactive promoters provide insight into cell type-specific regulatory networks in blood lineage cell types. <i><b>bioRxiv</b></i>. <<a href="https://doi.org/10.1101/2021.03.15.435494">link</a>></li></ol>
-
 <ol start="2"> <li> Zhao, B., Li, T., Smith, S., ..., <b>Yang, Y.</b>, ..., Zhu, H. (2021+) Common variants contribute to intrinsic human brain functional networks. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.07.30.229914v2.full">link</a>></li></ol>
 
 <ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2021+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
 
 ### 2022
-<ol start="50" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Janghorban, M.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Zhao, N., Hamor, C., Nguyen, T., Zhang, X., Rosen, J. (2022) Single Cell Analysis Unveils the Role of the Tumor Immune Microenvironment and Notch Signaling in Dormant Minimal Residual Disease. <i><b>Cancer Research</b></i>. Accepted. </span></li></ol>
+<ol start="52"> <li> Tang, X., Huang Y., Li, H., …, Yang, Y., Pang, H. (2022) Genomic insight into the scale specialization of the biological control agent Novius pumilus (Weise, 1892). <i><b>BMC Genomics</b></i>. Accepted.</li></ol>
+
+<ol start="51" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Janghorban, M.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Zhao, N., Hamor, C., Nguyen, T., Zhang, X., Rosen, J. (2022) Single Cell Analysis Unveils the Role of the Tumor Immune Microenvironment and Notch Signaling in Dormant Minimal Residual Disease. <i><b>Cancer Research</b></i>. Accepted. </span></li></ol>
+
+<ol start="50"> <li> Wen, J., Taylor, L., Sun, Q., <b>Yang, Y.</b>, Chen, J., Harigaya, Y., Ulirsch, J., Sankaran, V., Hu, M., Reiner, A., Raffield, L., Li, Y. (2022) Super interactive promoters provide insight into cell type-specific regulatory networks in blood lineage cell types. <i><b>PLOS Genetics</b></i>. Accepted.</li></ol>
 
 <ol start="49"> <li> Xu, S., Guo, Z., Feng, X., Shao, S., <b>Yang, Y.</b>, Li, J., Zhong, C., He, Z., Shi, S. (2022) Where whole-genome duplication is most beneficial - Adaptation of mangroves to a wide salinity range between land and sea. <i><b>Molecular Ecology</b></i>. DOI: 10.1111/mec.16320. PMID: 34882881. <<a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.16320">link</a>></li></ol>
 
