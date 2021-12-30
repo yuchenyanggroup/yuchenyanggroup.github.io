@@ -19,7 +19,7 @@ title: Yang Group's publications
 <ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2021+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
 
 ### 2022
-<ol start="52"> <li> Tang, X., Huang Y., Li, H., …, Yang, Y., Pang, H. (2022) Genomic insight into the scale specialization of the biological control agent Novius pumilus (Weise, 1892). <i><b>BMC Genomics</b></i>. Accepted.</li></ol>
+<ol start="52"> <li> Tang, X., Huang Y., Li, H., …, <b>Yang, Y.</b>, Pang, H. (2022) Genomic insight into the scale specialization of the biological control agent Novius pumilus (Weise, 1892). <i><b>BMC Genomics</b></i>. Accepted.</li></ol>
 
 <ol start="51" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Janghorban, M.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Zhao, N., Hamor, C., Nguyen, T., Zhang, X., Rosen, J. (2022) Single Cell Analysis Unveils the Role of the Tumor Immune Microenvironment and Notch Signaling in Dormant Minimal Residual Disease. <i><b>Cancer Research</b></i>. Accepted. </span></li></ol>
 
