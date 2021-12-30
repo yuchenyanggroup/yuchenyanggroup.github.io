@@ -4,6 +4,14 @@ title: News
 ---
 
 ## 2021
+<b>December 21, 2021</b><br/> 
+The research article "Single Cell Analysis Unveils the Role of the Tumor Immune Microenvironment and Notch Signaling in Dormant Minimal Residual Disease" I co-first-authored is accepted for publication in ***Cancer Research***.<br/>
+<br/>
+
+<b>December 9, 2021</b><br/> 
+The research article "Where whole-genome duplication is most beneficial: Adaptation of mangroves to a wide salinity range between land and sea" I co-authored is accepted for publication in ***Molecular Ecology***.<br/>
+<br/>
+
 <b>October 31, 2021</b><br/> 
 The research article "eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data" I co-coresponding-authored is accepted for publication in ***Briefings in Bioinformatics***.<br/>
 <br/>
