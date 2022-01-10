@@ -2,6 +2,10 @@
 layout: page
 title: News
 ---
+## 2022
+<b>January 10, 2022</b><br/> 
+The research article "Genomic insight into the scale specialization of the biological control agent *Novius pumilus* (Weise, 1892)" I co-authored is accepted for publication in ***BMC Genomics***.<br/>
+<br/>
 
 ## 2021
 <b>December 21, 2021</b><br/> 
