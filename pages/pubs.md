@@ -21,7 +21,7 @@ title: Yang Group's publications
 ### 2022
 <ol start="52"> <li> Tang, X., Huang Y., Li, H., …, <b>Yang, Y.</b>, Pang, H. (2022) Genomic insight into the scale specialization of the biological control agent Novius pumilus (Weise, 1892). <i><b>BMC Genomics</b></i>. Accepted.</li></ol>
 
-<ol start="51" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Janghorban, M.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Zhao, N., Hamor, C., Nguyen, T., Zhang, X., Rosen, J. (2022) Single Cell Analysis Unveils the Role of the Tumor Immune Microenvironment and Notch Signaling in Dormant Minimal Residual Disease. <i><b>Cancer Research</b></i>. Accepted. </span></li></ol>
+<ol start="51" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Janghorban, M.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Zhao, N., Hamor, C., Nguyen, T., Zhang, X., Rosen, J. (2022) Single Cell Analysis Unveils the Role of the Tumor Immune Microenvironment and Notch Signaling in Dormant Minimal Residual Disease. <i><b>Cancer Research</b></i>. DOI: 10.1158/0008-5472.CAN-21-1230. PMID: 34965936. <<a href="https://cancerres.aacrjournals.org/content/early/2021/12/28/0008-5472.CAN-21-1230">link</a>></li></ol>
 
 <ol start="50"> <li> Wen, J., Taylor, L., Sun, Q., <b>Yang, Y.</b>, Chen, J., Harigaya, Y., Ulirsch, J., Sankaran, V., Hu, M., Reiner, A., Raffield, L., Li, Y. (2022) Super interactive promoters provide insight into cell type-specific regulatory networks in blood lineage cell types. <i><b>PLOS Genetics</b></i>. Accepted.</li></ol>
 
