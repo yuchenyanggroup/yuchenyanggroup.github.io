@@ -3,8 +3,16 @@ layout: page
 title: News
 ---
 ## 2022
+<b>February 15, 2022</b><br/> 
+Wenxu's research article "Molecular dissection unveiling dwarfing effects of plant growth retardants on pomegranate!" is accepted for publication in ***Frontiers in Plant Science***. Congratulations!<br/>
+<br/>
+
 <b>January 10, 2022</b><br/> 
 The research article "Genomic insight into the scale specialization of the biological control agent *Novius pumilus* (Weise, 1892)" I co-authored is accepted for publication in ***BMC Genomics***.<br/>
+<br/>
+
+<b>January 9, 2022</b><br/> 
+Wenxu’s poster was selected as one of winner for the Best Poster Award of 2021 Ecological Forum of SYSU. Congratulations!<br/>
 <br/>
 
 ## 2021
