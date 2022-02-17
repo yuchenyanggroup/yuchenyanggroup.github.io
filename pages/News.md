@@ -3,7 +3,7 @@ layout: page
 title: News
 ---
 ## 2022
-<b>February 15, 2022</b><br/> 
+<b>February 14, 2022</b><br/> 
 Wenxu's research article "Molecular dissection unveiling dwarfing effects of plant growth retardants on pomegranate!" is accepted for publication in ***Frontiers in Plant Science***. Congratulations!<br/>
 <br/>
 
