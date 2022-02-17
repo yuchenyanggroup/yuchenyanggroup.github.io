@@ -11,15 +11,17 @@ title: Yang Group's publications
   </div>
 </div>
 
-<u>Lab Member</u>; &dagger;: Co-first authors; &sect;: Corresponding or co-corresponding authors.
+<u>Lab Member</u>; &dagger;: Co-first authors; &sect;: Corresponding authors.
 
 ### Preprint
+
 <ol start="2"> <li> Zhao, B., Li, T., Smith, S., ..., <b>Yang, Y.</b>, ..., Zhu, H. (2021+) Common variants contribute to intrinsic human brain functional networks. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.07.30.229914v2.full">link</a>></li></ol>
 
 <ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2021+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
 
 ### 2022
-<ol start="53" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Qian, J.<sup>&dagger;</sup>, Wang, N.<sup>&dagger;</sup>, <u>Ren, W.</u><sup>&dagger;</sup>, Zhang, R., Hong, X., Chen, L., Zhang, K., Shu, Y., Hu, N., <b>Yang, Y.<sup>&sect;</sup></b> (2022) Molecular dissection unveiling dwarfing effects of plant growth retardants on pomegranate. <i><b>Frontier in Plant Science</b></i>, DOI: 10.1158/0008-5472.CAN-21-1230. PMID: 34965936. <<a href="https://cancerres.aacrjournals.org/content/early/2021/12/28/0008-5472.CAN-21-1230">link</a>></li></ol>
+
+<ol start="53" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Qian, J.<sup>&dagger;</sup>, Wang, N.<sup>&dagger;</sup>, <u>Ren, W.</u><sup>&dagger;</sup>, Zhang, R., Hong, X., Chen, L., Zhang, K., Shu, Y., Hu, N., <b>Yang, Y.<sup>&sect;</sup></b> (2022) Molecular dissection unveiling dwarfing effects of plant growth retardants on pomegranate. <i><b>Frontiers in Plant Science</b></i>, . PMID: . <<a href="https://cancerres.aacrjournals.org/content/early/2021/12/28/0008-5472.CAN-21-1230">link</a>></li></ol>
 
 <ol start="52" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Janghorban, M.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Zhao, N., Hamor, C., Nguyen, T., Zhang, X., Rosen, J. (2022) Single Cell Analysis Unveils the Role of the Tumor Immune Microenvironment and Notch Signaling in Dormant Minimal Residual Disease. <i><b>Cancer Research</b></i>, DOI: 10.1158/0008-5472.CAN-21-1230. PMID: 34965936. <<a href="https://cancerres.aacrjournals.org/content/early/2021/12/28/0008-5472.CAN-21-1230">link</a>></li></ol>
 
@@ -36,6 +38,7 @@ title: Yang Group's publications
 <ol start="46" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Wang, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Ma, H., ...., Liu, J., Qian, L. (2022) Single Cell Dual-Omics Reveals the Transcriptomic and Epigenomic Diversity of Cardiac Non-myocytes. <i><b>Cardiovascular Research</b></i>, cvab134. PMID: 33839759. <<a href="https://academic.oup.com/cardiovascres/advance-article-abstract/doi/10.1093/cvr/cvab134/6220323">link</a>></span></li></ol>
 
 ### 2021
+
 <ol start="45"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. (2021) HPRep: Quantifying Reproducibility in HiChIP and PLAC-seq Datasets. <i><b>Current Issues in Molecular Biology</b></i>, 43: 1156-1170. PMID: 34563051. <<a href="https://www.mdpi.com/1467-3045/43/2/82">link</a>></li></ol>
 
 <ol start="44" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Ma, H.<sup>&dagger;</sup>, Liu, Z.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Liu, J. (2021) Coordinated transcriptome and cell state dynamics of non-myocytes in heart regeneration. <i><b>EMBO reports</b></i>, 22: e52901. PMID: 34523214. <<a href="https://www.embopress.org/doi/epdf/10.15252/embr.202152901">link</a>></span></li></ol>
