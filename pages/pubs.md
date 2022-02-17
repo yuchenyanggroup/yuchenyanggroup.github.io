@@ -67,6 +67,7 @@ title: Yang Group's publications
 <ol start="31" style="font-weight: bold;"> <li><span style="font-weight: normal;"><b>Yang, Y.<sup>&dagger;</sup></b>, Li, G.<sup>&dagger;</sup>, Qian, H., Wilhelmsen, K., Shen, Y., Li., Y. (2021) SMNN: Batch Effect Correction for Single-cell RNA-seq data via Supervised Mutual Nearest Neighbor Detection. <i><b>Briefings in Bioinformatics</b></i>, 22: bbaa097. PMID: 32591778. <<a href="https://academic.oup.com/bib/article-abstract/22/3/bbaa097/5855265?redirectedFrom=fulltext">link</a>></span></li></ol>
 
 ### 2020
+
 <ol start="30" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Qian, J., Zhang, X., Yan, Y., Wang, N., Ge, W., Zhou, Q.<sup>&sect;</sup>, <b>Yang, Y.<sup>&sect;</sup></b> (2020) Unravelling the molecular mechanisms of Abscisic acid-mediated drought-stress alleviation in pomegranate (<i>Punica granatum</i> L.). <i><b>Plant Physiology and Biochemistry</b></i>, 157: 211-218. PMID: 33120112. <<a href="https://www.sciencedirect.com/science/article/pii/S0981942820305222">link</a>></span></li></ol>
 
 <ol start="29"> <li> Wang, L., Ma, H., Huang, P., ..., <b>Yang, Y.</b>, ..., Qian, L. (2020) Down-regulation of Beclin1 promotes direct cardiac reprogramming. <i><b>Science Translational Medicine</b></i>, 12(566): eaay7856. PMID: 33087505. <<a href="https://stm.sciencemag.org/content/12/566/eaay7856/tab-pdf">link</a>></li></ol>
@@ -133,9 +134,11 @@ title: Yang Group's publications
 <ol start="4" style="font-weight: bold;"> <li><span style="font-weight: normal;"><b>Yang, Y.</b>, Yang, S., Fang, L., Li, J., Zhong, C., Zhou, R., Shi, S. (2015) Phylogenetic position of <i>Sonneratia  griffithii</i>  based on sequences of the nuclear ribosomal internal transcribed spacer and 13 nuclear genes. <i><b>Journal of Systematics and Evolution</b></i>, 53(1): 47-52. <<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jse.12102">link</a>></span></li></ol>
 
 ### 2014
+
 <ol start="3" style="font-weight: bold;"> <li><span style="font-weight: normal;"><b>杨宇晨</b>, 李建芳, 郭无瑕, 钟才荣, 周仁超, 施苏华. (2014) 植物物种形成的模式与机制. <i><b>生命科学</b></i>, 26: 138-143.</span></li></ol>
 
 ### 2011
+
 <ol start="2"> <li>钟才荣, 李诗川, <b>杨宇晨</b>, 张影, 林作武. (2011) 红树植物拉关木的引种效果调查研究. <i><b>福建林业科技</b></i>, 38: 96-99.</li></ol>
 
 <ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;"><b>杨宇晨</b>, 施苏华. (2011) 亟待保护的中国红树林. <i><b>生命世界</b></i>, 265: 84-87.</span></li></ol>
