@@ -24,6 +24,10 @@ The research article "Single Cell Analysis Unveils the Role of the Tumor Immune 
 The research article "Where whole-genome duplication is most beneficial: Adaptation of mangroves to a wide salinity range between land and sea" I co-authored is accepted for publication in ***Molecular Ecology***.<br/>
 <br/>
 
+<b>December 7, 2021</b><br/> 
+The research article "Super interactive promoters provide insight into cell type-specific regulatory networks in blood lineage cell types" I co-authored is accepted for publication in ***PLoS Genetics***.<br/>
+<br/>
+
 <b>October 31, 2021</b><br/> 
 The research article "eSCAN: Scan Regulatory Regions for Aggregate Association Testing using Whole Genome Sequencing Data" I co-coresponding-authored is accepted for publication in ***Briefings in Bioinformatics***.<br/>
 <br/>
