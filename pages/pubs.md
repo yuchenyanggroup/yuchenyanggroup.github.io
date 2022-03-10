@@ -14,9 +14,14 @@ title: Yang Group's publications
 <u>Lab Member</u>; &dagger;: Co-first authors; &sect;: Corresponding authors.
 
 ### Preprint
+<ol start="3"> <li> Chen, J., Liu, W., Luo, T., …, <b>Yang, Y.</b>, Li, Y. (2022+) A comprehensive comparison on cell type composition inference for spatial transcriptomics data. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2022.02.20.481171v1">link</a>></span></li></ol>
+
+
 <ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2022+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
 
 ### 2022
+<ol start="55" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Huang, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Li, G., Jiang, M., Wen, J., Abnousi, A., Rosen, J., Hu, M.*, Li, Y.* (2022+) Leveraging deep learning methods developed for Hi-C data to enhance resolution of HiChIP/PLAC-seq data. <i><b>Briefings in Bioinformatics</b></i>. Accepted. <<a href="">link</a>></span></li></ol>
+
 <ol start="54"> <li> Zhao, B., Li, T., Smith, S., ..., <b>Yang, Y.</b>, ..., Zhu, H. (2022) Common variants contribute to intrinsic human brain functional networks. <i><b>Nature Genetics</b></i>. Accepted. <<a href="https://www.biorxiv.org/content/10.1101/2020.07.30.229914v2.full">link</a>></li></ol>
 
 <ol start="53" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Qian, J.<sup>&dagger;</sup>, Wang, N.<sup>&dagger;</sup>, <u>Ren, W.</u><sup>&dagger;</sup>, Zhang, R., <u>Hong, X.</u>, Chen, L., Zhang, K., Shu, Y., Hu, N., <b>Yang, Y.<sup>&sect;</sup></b> (2022) Molecular dissection unveiling dwarfing effects of plant growth retardants on pomegranate. <i><b>Frontiers in Plant Science</b></i>, 13: 866193. PMID: . <<a href="https://www.frontiersin.org/articles/10.3389/fpls.2022.866193/full?utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Plant_Science&id=866193">link</a>></span></li></ol>
