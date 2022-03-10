@@ -14,8 +14,7 @@ title: Yang Group's publications
 <u>Lab Member</u>; &dagger;: Co-first authors; &sect;: Corresponding authors.
 
 ### Preprint
-<ol start="3"> <li> Chen, J., Liu, W., Luo, T., …, <b>Yang, Y.</b>, Li, Y. (2022+) A comprehensive comparison on cell type composition inference for spatial transcriptomics data. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2022.02.20.481171v1">link</a>></span></li></ol>
-
+<ol start="2"> <li> Chen, J., Liu, W., Luo, T., …, <b>Yang, Y.</b>, Li, Y. (2022+) A comprehensive comparison on cell type composition inference for spatial transcriptomics data. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2022.02.20.481171v1">link</a>></span></li></ol>
 
 <ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2022+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
 
