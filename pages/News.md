@@ -3,8 +3,12 @@ layout: page
 title: News
 ---
 ## 2022
+<b>March 31, 2022</b><br/> 
+The review article "A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data" I co-first-authored is accepted for publication in ***Briefings in Bioinformatics***.<br/>
+<br/>
+
 <b>February 14, 2022</b><br/> 
-Wenxu's research article "Molecular dissection unveiling dwarfing effects of plant growth retardants on pomegranate!" is accepted for publication in ***Frontiers in Plant Science***. Congratulations!<br/>
+Wenxu's research article "Molecular dissection unveiling dwarfing effects of plant growth retardants on pomegranate" is accepted for publication in ***Frontiers in Plant Science***. Congratulations!<br/>
 <br/>
 
 <b>January 10, 2022</b><br/> 
