@@ -25,7 +25,7 @@ description: Yang Group members
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/Yuqi.jpeg">
-            <img src="../assets/Yuqi.jpeg" height="75" width="105" title="Yuqi Liu" alt="Yuqi Liu"/>
+            <img src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/>
         </a>
         </div>
     </div>
