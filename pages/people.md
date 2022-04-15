@@ -8,7 +8,7 @@ description: Yang Group members
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/Yuchen.jpg">
-            <img src="../assets/Yuchen.jpg" height="210" width="150" title="Yuchen Yang" alt="Yuchen Yang"/>
+            <img src="../assets/Yuchen.jpg" height="105" width="75" title="Yuchen Yang" alt="Yuchen Yang"/>
         </a>
         </div>
     </div>
@@ -24,8 +24,20 @@ description: Yang Group members
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
+        <a href="../assets/Yuqi.jpeg">
+            <img src="../assets/Yuqi.jpeg" height="75" width="105" title="Yuqi Liu" alt="Yuqi Liu"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Yuqi Liu, Graduate Student from School of Ecology
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
         <a href="../assets/Wenxu.jpeg">
-            <img src="../assets/Wenxu.jpeg" height="150" width="210" title="Wenxu Ren" alt="Wenxu Ren"/>
+            <img src="../assets/Wenxu.jpeg" height="75" width="105" title="Wenxu Ren" alt="Wenxu Ren"/>
         </a>
         </div>
     </div>
