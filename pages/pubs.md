@@ -37,7 +37,7 @@ title: Yang Group's publications
 
 <ol start="47" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Wang, H.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Qian, Y., Liu, J., Qian, L. (2022) Delineating Chromatin Accessibility Re-patterning at Single Cell Level during Early Stage of Direct Cardiac Reprogramming. <i><b>Journal of Molecular and Cellular Cardiology</b></i>, 162: 62-71. PMID: 34509499. <<a href="https://www.sciencedirect.com/science/article/pii/S0022282821001747">link</a>></span></li></ol>
 
-<ol start="46" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Wang, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Ma, H., ...., Liu, J., Qian, L. (2022) Single Cell Dual-Omics Reveals the Transcriptomic and Epigenomic Diversity of Cardiac Non-myocytes. <i><b>Cardiovascular Research</b></i>, cvab134. PMID: 33839759. <<a href="https://academic.oup.com/cardiovascres/advance-article-abstract/doi/10.1093/cvr/cvab134/6220323">link</a>></span></li></ol>
+<ol start="46" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Wang, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Ma, H., ...., Liu, J., Qian, L. (2022) Single Cell Dual-Omics Reveals the Transcriptomic and Epigenomic Diversity of Cardiac Non-myocytes. <i><b>Cardiovascular Research</b></i>, 118: 1548–1563. PMID: 33839759. <<a href="https://academic.oup.com/cardiovascres/article/118/6/1548/6220323?login=true">link</a>></span></li></ol>
 
 ### 2021
 
