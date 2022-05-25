@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 ## 2022
+<b>May 25, 2022</b><br/> 
+The review article "A comprehensive comparison on cell type composition inference for spatial transcriptomics data" I co-authored is accepted for publication in ***Briefings in Bioinformatics***.<br/>
+<br/>
+
 <b>March 31, 2022</b><br/> 
 The review article "A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data" I co-first-authored is accepted for publication in ***Briefings in Bioinformatics***.<br/>
 <br/>
