@@ -14,11 +14,11 @@ title: Yang Group's publications
 <u>Lab Member</u>; &dagger;: Co-first authors; &sect;: Corresponding authors.
 
 ### Preprint
-<ol start="2"> <li> Chen, J., Liu, W., Luo, T., …, <b>Yang, Y.</b>, Li, Y. (2022+) A comprehensive comparison on cell type composition inference for spatial transcriptomics data. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2022.02.20.481171v1">link</a>></span></li></ol>
-
 <ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2022+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
 
 ### 2022
+<ol start="56"> <li> Chen, J., Liu, W., Luo, T., …, <b>Yang, Y.</b>, Li, Y. (2022) A comprehensive comparison on cell type composition inference for spatial transcriptomics data. <i><b>Briefings in Bioinformatics</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2022.02.20.481171v1">link</a>></span></li></ol>
+
 <ol start="55" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Huang, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, Li, G., Jiang, M., Wen, J., Abnousi, A., Rosen, J., Hu, M., Li, Y. (2022) A systematic evaluation of Hi-C data enhancement methods for enhancing PLAC-seq and HiChIP data. <i><b>Briefings in Bioinformatics</b></i>, 23: bbac145. PMID: 35488276. <<a href="https://academic.oup.com/bib/article-abstract/23/3/bbac145/6576178?redirectedFrom=fulltext">link</a>></span></li></ol>
 
 <ol start="54"> <li> Zhao, B., Li, T., Smith, S., ..., <b>Yang, Y.</b>, ..., Zhu, H. (2022) Common variants contribute to intrinsic human brain functional networks. <i><b>Nature Genetics</b></i>, 54: 508-517. PMID: 35393594. <<a href="https://www.nature.com/articles/s41588-022-01039-6">link</a>></li></ol>
