@@ -48,6 +48,18 @@ Wenxu Ren, Undergraduate Student from School of Ecology
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
+        <a href="../assets/Nuo.jpeg">
+            <img src="../assets/Nuo.jpeg" height="75" width="105" title="Nuo Xu" alt="Nuo Xu"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Nuo Xu, Undergraduate Student from School of Ecology
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
         <a href="../assets/Panpan.jpeg">
             <img src="../assets/Panpan.jpeg" height="75" width="105" title="Panpan Zhang" alt="Panpan Zhang"/>
         </a>
