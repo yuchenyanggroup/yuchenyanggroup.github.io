@@ -61,7 +61,7 @@ Panpan Zhang, Undergraduate Student from School of Ecology
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/Yutong.jpeg">
-            <img src="../assets/Yutong.jpeg" height="75" width="105" title="Yutong Li" alt="Yutong Li"/>
+            <img src="../assets/Yutong.jpeg" height="105" width="75" title="Yutong Li" alt="Yutong Li"/>
         </a>
         </div>
     </div>
