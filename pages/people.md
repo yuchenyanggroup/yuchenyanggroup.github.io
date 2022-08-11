@@ -49,7 +49,7 @@ Wenxu Ren, Undergraduate Student from School of Ecology
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/Nuo.jpeg">
-            <img src="../assets/Nuo.jpeg" height="80" width="95" title="Nuo Xu" alt="Nuo Xu"/>
+            <img src="../assets/Nuo.jpeg" height="95" width="80" title="Nuo Xu" alt="Nuo Xu"/>
         </a>
         </div>
     </div>
