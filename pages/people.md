@@ -81,6 +81,18 @@ Panpan Zhang, Undergraduate Student from School of Ecology
 
 Yutong Li, Undergraduate Student from School of Ecology
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/Chunqian.jpeg">
+            <img src="../assets/Chunqian.jpeg" height="75" width="105" title="Chunqian Liang" alt="Chunqian Liang"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Chunqian Liang, Undergraduate Student from School of Ecology
+
 Xiyao Hong, Undergraduate Student from Sun Yat-sen University
 
 <br/>
