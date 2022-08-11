@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 ## 2022
+<b>August 10, 2022</b><br/> 
+Welcome Panpan, Yutong and Chunxi to join the group!
+<br/>
+
 <b>May 25, 2022</b><br/> 
 The review article "A comprehensive comparison on cell type composition inference for spatial transcriptomics data" I co-authored is accepted for publication in ***Briefings in Bioinformatics***.<br/>
 <br/>
