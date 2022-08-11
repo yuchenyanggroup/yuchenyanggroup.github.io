@@ -45,6 +45,18 @@ Yuqi Liu, Graduate Student from School of Ecology
 
 Wenxu Ren, Undergraduate Student from School of Ecology
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/Panpan.jpeg">
+            <img src="../assets/Panpan.jpeg" height="75" width="105" title="Panpan Zhang" alt="Panpan Zhang"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Panpan Zhang, Undergraduate Student from School of Ecology
+
 Xiyao Hong, Undergraduate Student from Sun Yat-sen University
 
 <br/>
