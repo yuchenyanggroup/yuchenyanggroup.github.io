@@ -4,7 +4,7 @@ title: News
 ---
 ## 2022
 <b>August 10, 2022</b><br/> 
-Welcome Panpan, Yutong and Chunxi to join the group!
+Welcome Panpan, Yutong and Chunxi to join the group!<br/>
 <br/>
 
 <b>May 25, 2022</b><br/> 
