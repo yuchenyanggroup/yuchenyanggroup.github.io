@@ -57,6 +57,18 @@ Wenxu Ren, Undergraduate Student from School of Ecology
 
 Panpan Zhang, Undergraduate Student from School of Ecology
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/Yutong.jpeg">
+            <img src="../assets/Yutong.jpeg" height="75" width="105" title="Yutong Li" alt="Yutong Li"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Yutong Li, Undergraduate Student from School of Ecology
+
 Xiyao Hong, Undergraduate Student from Sun Yat-sen University
 
 <br/>
