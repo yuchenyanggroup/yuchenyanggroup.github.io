@@ -49,19 +49,19 @@ Wenxu Ren, Forth-year undergraduate Student from School of Ecology
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/Minhong.jpeg">
-            <img src="../assets/Minghong.jpeg" height="75" width="105" title="Minghong Fan" alt="Minghong Fan"/>
+            <img src="../assets/Minhong.jpeg" height="75" width="105" title="Minhong Fan" alt="Minhong Fan"/>
         </a>
         </div>
     </div>
 </div>
 
-Minghong Fan, Third-year undergraduate Student from School of Ecology
+Minhong Fan, Third-year undergraduate Student from School of Ecology
 
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/Xiaohui.jpeg">
-            <img src="../assets/Xiaohui.jpeg" height="75" width="105" title="Xiaohui Zeng" alt="Xiaohui Zeng"/>
+            <img src="../assets/Xiaohui.jpeg" height="105" width="75" title="Xiaohui Zeng" alt="Xiaohui Zeng"/>
         </a>
         </div>
     </div>
@@ -116,8 +116,6 @@ Yutong Li, Second-year undergraduate Student from School of Ecology
 </div>
 
 Chunxi Liang, Undergraduate Student from School of Ecology
-
-Xiyao Hong, Second-year undergraduate Student from Sun Yat-sen University
 
 <br/>
 
