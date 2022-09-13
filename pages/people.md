@@ -43,7 +43,31 @@ Yuqi Liu, Graduate Student from School of Ecology
     </div>
 </div>
 
-Wenxu Ren, Undergraduate Student from School of Ecology
+Wenxu Ren, Forth-year undergraduate Student from School of Ecology
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/Minhong.jpeg">
+            <img src="../assets/Minghong.jpeg" height="75" width="105" title="Minghong Fan" alt="Minghong Fan"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Minghong Fan, Third-year undergraduate Student from School of Ecology
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/Xiaohui.jpeg">
+            <img src="../assets/Xiaohui.jpeg" height="75" width="105" title="Xiaohui Zeng" alt="Xiaohui Zeng"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Xiaohui Zeng, Third-year undergraduate Student from School of Ecology
 
 <div class="container">
     <div class="row-fluid">
@@ -55,7 +79,7 @@ Wenxu Ren, Undergraduate Student from School of Ecology
     </div>
 </div>
 
-Nuo Xu, Undergraduate Student from School of Ecology
+Nuo Xu, Second-year undergraduate Student from School of Ecology
 
 <div class="container">
     <div class="row-fluid">
@@ -67,7 +91,7 @@ Nuo Xu, Undergraduate Student from School of Ecology
     </div>
 </div>
 
-Panpan Zhang, Undergraduate Student from School of Ecology
+Panpan Zhang, Second-year undergraduate Student from School of Ecology
 
 <div class="container">
     <div class="row-fluid">
@@ -79,7 +103,7 @@ Panpan Zhang, Undergraduate Student from School of Ecology
     </div>
 </div>
 
-Yutong Li, Undergraduate Student from School of Ecology
+Yutong Li, Second-year undergraduate Student from School of Ecology
 
 <div class="container">
     <div class="row-fluid">
@@ -93,7 +117,7 @@ Yutong Li, Undergraduate Student from School of Ecology
 
 Chunxi Liang, Undergraduate Student from School of Ecology
 
-Xiyao Hong, Undergraduate Student from Sun Yat-sen University
+Xiyao Hong, Second-year undergraduate Student from Sun Yat-sen University
 
 <br/>
 
