@@ -43,7 +43,7 @@ Yuqi Liu, Graduate Student from School of Ecology
     </div>
 </div>
 
-Xinhui Xia, Graduate Student from School of Ecology
+Xinhui Xia (Xia Laoshi), Graduate Student from School of Ecology
 
 <div class="container">
     <div class="row-fluid">
