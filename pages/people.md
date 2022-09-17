@@ -36,6 +36,18 @@ Yuqi Liu, Graduate Student from School of Ecology
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
+        <a href="../assets/Xinhui.jpeg">
+            <img src="../assets/Xinhui.jpeg" height="105" width="75" title="Xinhui Xia" alt="Xinhui Xia"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Xinhui Xia, Graduate Student from School of Ecology
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
         <a href="../assets/Wenxu.jpeg">
             <img src="../assets/Wenxu.jpeg" height="75" width="105" title="Wenxu Ren" alt="Wenxu Ren"/>
         </a>
