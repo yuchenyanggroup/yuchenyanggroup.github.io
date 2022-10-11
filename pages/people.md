@@ -84,6 +84,18 @@ Xiaohui Zeng, Third-year undergraduate Student from School of Ecology
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
+        <a href="../assets/Shan.jpeg">
+            <img src="../assets/Shan.jpeg" height="105" width="75" title="Shan Yang" alt="Shan Yang"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Shan Yang, Third-year undergraduate Student from School of Ecology
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
         <a href="../assets/Nuo.jpeg">
             <img src="../assets/Nuo.jpeg" height="95" width="100" title="Nuo Xu" alt="Nuo Xu"/>
         </a>
