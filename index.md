@@ -23,8 +23,8 @@ Our group has been actively participating in a number of collaborative researche
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/Shan.jpeg">
-            <img src="../assets/Shan.jpeg" height="105" width="75" title="Shan Yang" alt="Shan Yang"/>
+        <a href="assets/group_dinner.jpeg">
+            <img src="assets/group_dinner.jpeg" height="75" width="105" title="Group Fun" alt="Group Fun"/>
         </a>
         </div>
     </div>
