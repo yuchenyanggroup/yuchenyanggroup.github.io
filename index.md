@@ -20,6 +20,16 @@ Our group has been actively participating in a number of collaborative researche
 
 ### GROUP FUN
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/Shan.jpeg">
+            <img src="../assets/Shan.jpeg" height="105" width="75" title="Shan Yang" alt="Shan Yang"/>
+        </a>
+        </div>
+    </div>
+</div>
+
 ---
 
 ### CONTACT INFORMATION
