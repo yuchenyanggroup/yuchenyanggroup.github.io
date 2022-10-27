@@ -24,7 +24,7 @@ Our group has been actively participating in a number of collaborative researche
     <div class="row-fluid">
         <div class="span2">
         <a href="assets/group_dinner.jpeg">
-            <img src="assets/group_dinner.jpeg" height="300" width="420" title="Group Fun" alt="Group Fun"/>
+            <img src="assets/group_dinner.jpeg" height="200" width="420" title="Group Fun" alt="Group Fun"/>
         </a>
         </div>
     </div>
