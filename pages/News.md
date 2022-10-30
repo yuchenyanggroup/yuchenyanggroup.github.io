@@ -3,7 +3,7 @@ layout: page
 title: News
 ---
 ## 2022
-<b>August 10, 2022</b><br/> 
+<b>September 28, 2022</b><br/> 
 Welcome Xinhui to join the group! Xinhui will officially be our group member in the next September. <br/>
 <br/>
 
