@@ -4,6 +4,10 @@ title: News
 ---
 ## 2022
 <b>August 10, 2022</b><br/> 
+Welcome Xinhui to join the group! Xinhui will officially be our group member in the next September. <br/>
+<br/>
+
+<b>August 10, 2022</b><br/> 
 Welcome Panpan, Yutong and Chunxi to join the group!<br/>
 <br/>
 
