@@ -2,6 +2,15 @@
 layout: page
 title: News
 ---
+## 2023
+<b>March 17, 2023</b><br/> 
+Xinhui's research article "Genome-wide Alternative Polyadenylation Dynamics Underlying Plant Growth Retardant-induced Dwarfing of Pomegranate" is accepted for publication in ***Frontiers in Plant Science***. Congratulations!<br/>
+<br/>
+
+<b>March 17, 2023</b><br/> 
+Welcome Chunyu to join the group as a Research Assistant! <br/>
+<br/>
+
 ## 2022
 <b>September 28, 2022</b><br/> 
 Welcome Xinhui to join the group! Xinhui will officially be our group member in the next September. <br/>
