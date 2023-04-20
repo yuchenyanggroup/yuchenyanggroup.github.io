@@ -3,6 +3,14 @@ layout: page
 title: Group members
 description: Yang Group members
 ---
+<style type="text/css">
+    .image-left {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      float: right;
+    }
+</style>
 
 <div class="container">
     <div class="row-fluid">
@@ -24,7 +32,8 @@ description: Yang Group members
 
 Yuqi Liu <br/> Graduate Student from School of Ecology <br/> Research topic: Transcriptional adaptation to stress conditions <img valign="middle" src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/> 
 
-
+ [![Proguard](../assets/Yuqi.jpeg)]{: .image-left } Yuqi Liu <br/> Graduate Student from School of Ecology <br/> Research topic: Transcriptional adaptation to stress conditions
+ 
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
