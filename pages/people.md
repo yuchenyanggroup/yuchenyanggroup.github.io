@@ -23,33 +23,27 @@ description: Yang Group members
 
 
 <img align="left" src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/> 
-    Yuqi Liu <br/>
-    Graduate Student<br/> 
-    Research topic: Transcriptional adaptation to stress conditions <br/> 
+    **Yuqi Liu** <br/><br/>
+    Graduate Student <br/><br/>
+    **Research topic:** Transcriptional adaptation to stress conditions <br/> 
 
 <br/>
 <br/>
 
 <img align="left" src="../assets/Xinhui_new.jpeg" height="105" width="75" title="Xinhui Xia" alt="Xinhui Xia"/>
-     Xinhui Xia <br/>
-     Graduate Student <br/>
-     Research topic: Post-transcriptional regulations to plant development and stress response <br/> 
+     **Xinhui Xia** <br/><br/>
+     **Graduate Student** <br/><br/>
+     **Research topic:** Post-transcriptional regulations to plant development and stress response <br/> 
 
 <br/>
 <br/>
 
+<img src="../assets/Wenxu.jpeg" height="75" width="105" title="Wenxu Ren" alt="Wenxu Ren"/>
+     Wenxu Ren
+     Undergraduate Student
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/Wenxu.jpeg">
-            <img src="../assets/Wenxu.jpeg" height="75" width="105" title="Wenxu Ren" alt="Wenxu Ren"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-Wenxu Ren, Forth-year undergraduate Student from School of Ecology
+<br/>
+<br/>
 
 <div class="container">
     <div class="row-fluid">
