@@ -16,6 +16,9 @@ title: Yang Group's publications
 ### Preprint
 <ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2022+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
 
+### 2023
+<ol start="57" style="font-weight: bold;"> <li><span style="font-weight: normal;"> <u>Xia, X.</u>, Fan, M., Liu, Y., Chang, X., Wang, J., Qian, J., <b>Yang Y.<sup>&sect;</sup></b> (2023) Genome-wide Alternative Polyadenylation Dynamics Underlying Plant Growth Retardant-induced Dwarfing of Pomegranate. <i><b>Frontiers in Plant Science</b></i>, Accepted. PMID: 35488276. <<a href="https://www.frontiersin.org/articles/10.3389/fpls.2023.1189456/abstract">link</a>></span></li></ol>
+
 ### 2022
 <ol start="56"> <li> Chen, J., Liu, W., Luo, T., …, <b>Yang, Y.</b>, Li, Y. (2022) A comprehensive comparison on cell-type composition inference for spatial transcriptomics data. <i><b>Briefings in Bioinformatics</b></i>, 23: bbac245. PMID: 35753702. <<a href="https://academic.oup.com/bib/article-abstract/23/4/bbac245/6618233?redirectedFrom=fulltext">link</a>></li></ol>
 
