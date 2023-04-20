@@ -34,6 +34,8 @@ description: Yang Group members
     </div>
 </div>
 
+<br/>
+
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
