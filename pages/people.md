@@ -21,32 +21,23 @@ description: Yang Group members
 
 <br/>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/Xinhui_new.jpeg">
-            <img align="left" src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/> 
-             Yuqi Liu <br/>
-             Graduate Student<br/> 
-             Research topic: Transcriptional adaptation to stress conditions <br/> 
-        </a>
-        </div>
-    </div>
-</div>
+
+<img align="left" src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/> 
+  Yuqi Liu <br/>
+  Graduate Student<br/> 
+  Research topic: Transcriptional adaptation to stress conditions <br/> 
 
 <br/>
+<br/>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/Xinhui_new.jpeg">
-            <img src="../assets/Xinhui_new.jpeg" height="105" width="75" title="Xinhui Xia" alt="Xinhui Xia"/>
-        </a>
-        </div>
-    </div>
-</div>
+<img align="left" src="../assets/Xinhui_new.jpeg" height="105" width="75" title="Xinhui Xia" alt="Xinhui Xia"/>
+   Xinhui Xia <br/>
+   Graduate Student <br/>
+   Research topic: Post-transcriptional regulations to plant development and stress response <br/> 
 
-Xinhui Xia (Xia Lao Shi), Graduate Student from School of Ecology
+<br/>
+<br/>
+
 
 <div class="container">
     <div class="row-fluid">
