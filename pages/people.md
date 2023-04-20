@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Group members
+title: GROUP MEMBERS
 description: Yang Group members
 ---
 
@@ -137,3 +137,8 @@ Chunxi Liang, Undergraduate Student from School of Ecology
 
 <br/>
 
+---
+layout: page
+title: ALUMNI MEMBERS
+description: Yang Group members
+---
