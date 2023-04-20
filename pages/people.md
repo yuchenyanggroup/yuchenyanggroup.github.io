@@ -21,12 +21,19 @@ description: Yang Group members
 
 <br/>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/Xinhui_new.jpeg">
+            <img align="left" src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/> 
+             Yuqi Liu <br/>
+             Graduate Student<br/> 
+             Research topic: Transcriptional adaptation to stress conditions <br/> 
+        </a>
+        </div>
+    </div>
+</div>
 
-<img align="left" src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/> 
-Yuqi Liu <br/>
-Graduate Student from School of Ecology <br/> 
-Research topic: Transcriptional adaptation to stress conditions <br/> 
- 
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
