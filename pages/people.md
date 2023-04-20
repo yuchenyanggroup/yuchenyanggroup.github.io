@@ -7,10 +7,7 @@ description: Yang Group members
 <img align="left" src="../assets/Yuchen.jpg" height="105" width="75" title="Yuchen Yang" alt="Yuchen Yang"/>
     <b>&nbsp;&nbsp;&nbsp;Yuchen Yang</b> <br/>
     <b>&nbsp;&nbsp;&nbsp;Principal Investigator</b> <br/>
-<div class="cv">
-	Yuchen Yang, Principal Investigator <br/>
-	<a href="../assets/Curriculum Vitae_Yuchen_Yang.pdf" title="Download CV as PDF">View/Download CV</a> <br/>
-</div>
+    &nbsp;&nbsp;&nbsp;<a href="../assets/Curriculum Vitae_Yuchen_Yang.pdf" title="Download CV as PDF">View/Download CV</a> <br/>
 <br/>
 <br/>
 <br/>
@@ -34,7 +31,7 @@ description: Yang Group members
 
 <img align="left" src="../assets/Wenxu.jpeg" height="75" width="105" title="Wenxu Ren" alt="Wenxu Ren"/>
      <b>&nbsp;&nbsp;&nbsp;Wen Xu</b> <br/>
-     <b>&nbsp;&nbsp;&nbsp;Forth-year Undergraduate Student</b> <br/>
+     &nbsp;&nbsp;&nbsp;Forth-year Undergraduate Student <br/>
 
 <br/>
 <br/>
