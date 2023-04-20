@@ -23,17 +23,17 @@ description: Yang Group members
 
 
 <img align="left" src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/> 
-    **Yuqi Liu** <br/><br/>
+    <b>Yuqi Liu<b/> <br/><br/>
     Graduate Student <br/><br/>
-    **Research topic:** Transcriptional adaptation to stress conditions <br/> 
+    <b>Research topic:<b/> Transcriptional adaptation to stress conditions <br/> 
 
 <br/>
 <br/>
 
 <img align="left" src="../assets/Xinhui_new.jpeg" height="105" width="75" title="Xinhui Xia" alt="Xinhui Xia"/>
-     **Xinhui Xia** <br/><br/>
-     **Graduate Student** <br/><br/>
-     **Research topic:** Post-transcriptional regulations to plant development and stress response <br/> 
+     <b>Xinhui Xia<b/> <br/><br/>
+     <b>Graduate Student<b/> <br/>
+     <b>Research topic:<b/> Post-transcriptional regulations to plant development and stress response <br/> 
 
 <br/>
 <br/>
