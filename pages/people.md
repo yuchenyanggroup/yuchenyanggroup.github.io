@@ -25,7 +25,7 @@ description: Yang Group members
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/Yuqi.jpeg">
-            <img src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/>
+            <img valign="middle" src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/> Yuqi Liu, Graduate Student from School of Ecology
         </a>
         </div>
     </div>
