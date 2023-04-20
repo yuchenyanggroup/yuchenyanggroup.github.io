@@ -23,17 +23,17 @@ description: Yang Group members
 
 
 <img align="left" src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/> 
-  Yuqi Liu <br/>
-  Graduate Student<br/> 
-  Research topic: Transcriptional adaptation to stress conditions <br/> 
+    Yuqi Liu <br/>
+    Graduate Student<br/> 
+    Research topic: Transcriptional adaptation to stress conditions <br/> 
 
 <br/>
 <br/>
 
 <img align="left" src="../assets/Xinhui_new.jpeg" height="105" width="75" title="Xinhui Xia" alt="Xinhui Xia"/>
-   Xinhui Xia <br/>
-   Graduate Student <br/>
-   Research topic: Post-transcriptional regulations to plant development and stress response <br/> 
+     Xinhui Xia <br/>
+     Graduate Student <br/>
+     Research topic: Post-transcriptional regulations to plant development and stress response <br/> 
 
 <br/>
 <br/>
@@ -137,8 +137,5 @@ Chunxi Liang, Undergraduate Student from School of Ecology
 
 <br/>
 
----
-layout: page
-title: ALUMNI MEMBERS
-description: Yang Group members
----
+
+## ALUMNI MEMBERS
