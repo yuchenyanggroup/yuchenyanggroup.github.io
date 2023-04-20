@@ -24,7 +24,7 @@ description: Yang Group members
 <img align="left" src="../assets/Xinhui_new.jpeg" height="105" width="75" title="Xinhui Xia" alt="Xinhui Xia"/>
      <b>&nbsp;&nbsp;&nbsp;Xinhui Xia</b> <br/>
      &nbsp;&nbsp;&nbsp;Graduate Student <br/>
-     <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Post-transcriptional regulations to plant development and stress response <br/> 
+     <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Post-transcriptional regulations of plant development and stress response <br/> 
 
 <br/>
 <br/>
