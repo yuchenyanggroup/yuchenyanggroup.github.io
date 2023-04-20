@@ -49,11 +49,13 @@ description: Yang Group members
 
 <br/>
 <br/>
+<br/>
 
 <img align="left" src="../assets/Shan.jpeg" height="105" width="75" title="Shan Yang" alt="Shan Yang"/>
        <b>&nbsp;&nbsp;&nbsp;Shan Yang</b> <br/>
        &nbsp;&nbsp;&nbsp;Third-year Undergraduate Student <br/>
 
+<br/>
 <br/>
 <br/>
 
@@ -75,6 +77,7 @@ description: Yang Group members
        <b>&nbsp;&nbsp;&nbsp;Yutong Li</b> <br/>
        &nbsp;&nbsp;&nbsp;Second-year Undergraduate Student <br/>
 
+<br/>
 <br/>
 <br/>
 
