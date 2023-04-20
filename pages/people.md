@@ -23,9 +23,9 @@ description: Yang Group members
 
 
 <img align="left" src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/> 
-    <b>Yuqi Liu<b/> <br/>
-    <b>Graduate Student<b/> <br/>
-    <b>Research topic:<b/> Transcriptional adaptation to stress conditions <br/> 
+    <b>&nbsp;&nbsp;&nbsp;Yuqi Liu<b/> <br/>
+    <b>&nbsp;&nbsp;&nbsp;Graduate Student<b/> <br/>
+    <b>&nbsp;&nbsp;&nbsp;Research topic:<b/> Transcriptional adaptation to stress conditions <br/> 
 
 <br/>
 <br/>
@@ -38,48 +38,33 @@ description: Yang Group members
 <br/>
 <br/>
 
-<img src="../assets/Wenxu.jpeg" height="75" width="105" title="Wenxu Ren" alt="Wenxu Ren"/>
+<img align="left" src="../assets/Wenxu.jpeg" height="75" width="105" title="Wenxu Ren" alt="Wenxu Ren"/>
      <b>&nbsp;&nbsp;&nbsp;Wen Xu<b/> <br/>
-     <b>&nbsp;&nbsp;&nbsp;Undergraduate Student<b/> <br/>
+     <b>&nbsp;&nbsp;&nbsp;Forth-year Undergraduate Student<b/> <br/>
+
+<br/>
+<br/>
+	    
+<img align="left" src="../assets/Minhong.jpeg" height="75" width="105" title="Minhong Fan" alt="Minhong Fan"/>
+     <b>&nbsp;&nbsp;&nbsp;Minhong Fan<b/> <br/>
+     <b>&nbsp;&nbsp;&nbsp;Third-year Undergraduate Student<b/> <br/>
 
 <br/>
 <br/>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/Minhong.jpeg">
-            <img src="../assets/Minhong.jpeg" height="75" width="105" title="Minhong Fan" alt="Minhong Fan"/>
-        </a>
-        </div>
-    </div>
-</div>
+<img src="../assets/Xiaohui.jpeg" height="105" width="75" title="Xiaohui Zeng" alt="Xiaohui Zeng"/>
+      <b>&nbsp;&nbsp;&nbsp;Xiaohui Zeng<b/> <br/>
+      <b>&nbsp;&nbsp;&nbsp;Third-year Undergraduate Student<b/> <br/>
 
-Minhong Fan, Third-year undergraduate Student from School of Ecology
+<br/>
+<br/>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/Xiaohui.jpeg">
-            <img src="../assets/Xiaohui.jpeg" height="105" width="75" title="Xiaohui Zeng" alt="Xiaohui Zeng"/>
-        </a>
-        </div>
-    </div>
-</div>
+<img src="../assets/Shan.jpeg" height="105" width="75" title="Shan Yang" alt="Shan Yang"/>
+       <b>&nbsp;&nbsp;&nbsp;Shan Yang<b/> <br/>
+       <b>&nbsp;&nbsp;&nbsp;Third-year Undergraduate Student<b/> <br/>
 
-Xiaohui Zeng, Third-year undergraduate Student from School of Ecology
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/Shan.jpeg">
-            <img src="../assets/Shan.jpeg" height="105" width="75" title="Shan Yang" alt="Shan Yang"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-Shan Yang, Third-year undergraduate Student from School of Ecology
+<br/>
+<br/>
 
 <div class="container">
     <div class="row-fluid">
