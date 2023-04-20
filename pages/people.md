@@ -31,6 +31,9 @@ description: Yang Group members
     </div>
 </div>
 
+
+Yuqi Liu, Graduate Student from School of Ecology <img valign="middle" src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/> 
+
 Yuqi Liu, Graduate Student from School of Ecology
 
 <div class="container">
