@@ -4,21 +4,15 @@ title: GROUP MEMBERS
 description: Yang Group members
 ---
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/Yuchen.jpg">
-            <img src="../assets/Yuchen.jpg" height="105" width="75" title="Yuchen Yang" alt="Yuchen Yang"/>
-        </a>
-        </div>
-    </div>
-</div>
-
+<img align="left" src="../assets/Yuchen.jpg" height="105" width="75" title="Yuchen Yang" alt="Yuchen Yang"/>
+    <b>&nbsp;&nbsp;&nbsp;Yuchen Yang</b> <br/>
+    <b>&nbsp;&nbsp;&nbsp;Principal Investigator</b> <br/>
 <div class="cv">
 	Yuchen Yang, Principal Investigator <br/>
 	<a href="../assets/Curriculum Vitae_Yuchen_Yang.pdf" title="Download CV as PDF">View/Download CV</a> <br/>
 </div>
-
+<br/>
+<br/>
 <br/>
 
 
@@ -52,42 +46,42 @@ description: Yang Group members
 <br/>
 <br/>
 
-<img src="../assets/Xiaohui.jpeg" height="105" width="75" title="Xiaohui Zeng" alt="Xiaohui Zeng"/>
+<img align="left" src="../assets/Xiaohui.jpeg" height="105" width="75" title="Xiaohui Zeng" alt="Xiaohui Zeng"/>
       <b>&nbsp;&nbsp;&nbsp;Xiaohui Zeng</b> <br/>
       <b>&nbsp;&nbsp;&nbsp;Third-year Undergraduate Student</b> <br/>
 
 <br/>
 <br/>
 
-<img src="../assets/Shan.jpeg" height="105" width="75" title="Shan Yang" alt="Shan Yang"/>
+<img align="left" src="../assets/Shan.jpeg" height="105" width="75" title="Shan Yang" alt="Shan Yang"/>
        <b>&nbsp;&nbsp;&nbsp;Shan Yang</b> <br/>
        <b>&nbsp;&nbsp;&nbsp;Third-year Undergraduate Student</b> <br/>
 
 <br/>
 <br/>
 
-<img src="../assets/Nuo.jpeg" height="95" width="100" title="Nuo Xu" alt="Nuo Xu"/>
+<img align="left" src="../assets/Nuo.jpeg" height="95" width="100" title="Nuo Xu" alt="Nuo Xu"/>
        <b>&nbsp;&nbsp;&nbsp;Nuo Xu</b> <br/>
        <b>&nbsp;&nbsp;&nbsp;Second-year Undergraduate Student</b> <br/>
 
 <br/>
 <br/>
 
-<img src="../assets/Panpan.jpeg" height="75" width="105" title="Panpan Zhang" alt="Panpan Zhang"/>
+<img align="left" src="../assets/Panpan.jpeg" height="75" width="105" title="Panpan Zhang" alt="Panpan Zhang"/>
        <b>&nbsp;&nbsp;&nbsp;Panpan Zhang</b> <br/>
        <b>&nbsp;&nbsp;&nbsp;Second-year Undergraduate Student</b> <br/>
 
 <br/>
 <br/>
 
-<img src="../assets/Yutong.jpeg" height="105" width="75" title="Yutong Li" alt="Yutong Li"/>
+<img align="left" src="../assets/Yutong.jpeg" height="105" width="75" title="Yutong Li" alt="Yutong Li"/>
        <b>&nbsp;&nbsp;&nbsp;Yutong Li</b> <br/>
        <b>&nbsp;&nbsp;&nbsp;Second-year Undergraduate Student</b> <br/>
 
 <br/>
 <br/>
 
-<img src="../assets/Chunqian.jpeg" height="75" width="105" title="Chunxi Liang" alt="Chunxi Liang"/>
+<img align="left" src="../assets/Chunqian.jpeg" height="75" width="105" title="Chunxi Liang" alt="Chunxi Liang"/>
        <b>&nbsp;&nbsp;&nbsp;Chunxi Liang</b> <br/>
        <b>&nbsp;&nbsp;&nbsp;Second-year Undergraduate Student</b> <br/>
 
