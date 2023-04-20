@@ -39,8 +39,8 @@ description: Yang Group members
 <br/>
 
 <img src="../assets/Wenxu.jpeg" height="75" width="105" title="Wenxu Ren" alt="Wenxu Ren"/>
-     Wenxu Ren
-     Undergraduate Student
+     <b>&nbsp;&nbsp;&nbsp;Wen Xu<b/> <br/>
+     <b>&nbsp;&nbsp;&nbsp;Undergraduate Student<b/> <br/>
 
 <br/>
 <br/>
