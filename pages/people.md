@@ -24,7 +24,15 @@ description: Yang Group members
 <img align="left" src="../assets/Xinhui_new.jpeg" height="105" width="75" title="Xinhui Xia" alt="Xinhui Xia"/>
      <b>&nbsp;&nbsp;&nbsp;Xinhui Xia</b> <br/>
      &nbsp;&nbsp;&nbsp;Graduate Student <br/>
-     <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Post-transcriptional regulations of plant development and stress response <br/> 
+     <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Post-transcriptional regulations of plant development and stress responses <br/> 
+
+<br/>
+<br/>
+
+<img align="left" src="../assets/chunyu.jpeg" height="105" width="75" title="Chunyu Zhao" alt="Chunyu Zhao"/>
+     <b>&nbsp;&nbsp;&nbsp;Chunyu Zhao</b> <br/>
+     &nbsp;&nbsp;&nbsp;Research Assistant <br/>
+     <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Alternative splicing regulation of stress responses <br/> 
 
 <br/>
 <br/>
