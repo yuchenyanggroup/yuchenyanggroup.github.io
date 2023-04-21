@@ -29,7 +29,7 @@ description: Yang Group members
 <br/>
 <br/>
 
-<img align="left" src="../assets/chunyu.jpeg" height="105" width="75" title="Chunyu Zhao" alt="Chunyu Zhao"/>
+<img align="left" src="../assets/chunyu.jpeg" height="105" width="77.464" title="Chunyu Zhao" alt="Chunyu Zhao"/>
      <b>&nbsp;&nbsp;&nbsp;Chunyu Zhao</b> <br/>
      &nbsp;&nbsp;&nbsp;Research Assistant <br/>
      <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Alternative splicing regulation of stress responses <br/> 
