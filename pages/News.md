@@ -3,8 +3,12 @@ layout: page
 title: News
 ---
 ## 2023
+<b>May 5, 2023</b><br/> 
+Yuqi's research article "Unraveling molecular mechanisms underlying low-temperature adaptation in *Laguncularia racemosa*" is accepted for publication in ***Plant Physiology and Biochemistry***. Congratulations!<br/>
+<br/>
+
 <b>April 17, 2023</b><br/> 
-Xinhui's research article "Genome-wide Alternative Polyadenylation Dynamics Underlying Plant Growth Retardant-induced Dwarfing of Pomegranate" is accepted for publication in ***Frontiers in Plant Science***. Congratulations!<br/>
+Xinhui's research article "Genome-wide alternative polyadenylation dynamics underlying plant growth retardant-induced dwarfing of pomegranate" is accepted for publication in ***Frontiers in Plant Science***. Congratulations!<br/>
 <br/>
 
 <b>April 17, 2023</b><br/> 
