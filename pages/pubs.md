@@ -17,7 +17,7 @@ title: Yang Group's publications
 <ol start="1" style="font-weight: bold;"> <li><span style="font-weight: normal;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2022+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
 
 ### 2023
-<ol start="61" style="font-weight: bold;"> <li><span style="font-weight: normal;"> <b>Yang Y.<sup>&sect;</sup></b> (2023) Editorial: Molecular Dissection of the Genetic Basis Underlying Plant Complex Traits. <i><b>Frontiers in Genetics</b></i>, 14:1256218. PMID: 37576551. <<a href="https://www.frontiersin.org/articles/10.3389/fgene.2023.1256218/full">link</a>></span></li></ol>
+<ol start="61" style="font-weight: bold;"> <li><span style="font-weight: normal;"> <b>Yang Y.<sup>&sect;</sup></b> (2023) Somatic Embryogenesis and Plant Regeneration from Stem Explants of Pomegranate. <i><b>Frontiers in Genetics</b></i>, 14:1256218. PMID: 37576551. <<a href="https://www.frontiersin.org/articles/10.3389/fgene.2023.1256218/full">link</a>></span></li></ol>
 
 <ol start="60" style="font-weight: bold;"> <li><span style="font-weight: normal;"> <b>Yang Y.<sup>&sect;</sup></b> (2023) Editorial: Molecular Dissection of the Genetic Basis Underlying Plant Complex Traits. <i><b>Frontiers in Genetics</b></i>, 14:1256218. PMID: 37576551. <<a href="https://www.frontiersin.org/articles/10.3389/fgene.2023.1256218/full">link</a>></span></li></ol>
 
