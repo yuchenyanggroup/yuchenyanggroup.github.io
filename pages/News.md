@@ -7,6 +7,10 @@ title: News
 Xinhui's research article "Somatic Embryogenesis and Plant Regeneration from Stem Explants of Pomegranate" is accepted for publication in ***Horticulturae***. Congratulations!<br/>
 <br/>
 
+<b>September 6, 2023</b><br/> 
+The research article "Translational landscape of direct cardiac reprogramming reveals a role of Ybx1 in repressing cardiac fate acquisition" I co-first-authored is accepted for publication in ***Nature Cardiovascular Research***.<br/>
+<br/>
+
 <b>June 20, 2023</b><br/> 
 Yuqi's research article "Divergent MolecularResponses of Greater Amberjack (*Seriola dumerili*) to Acute Salinity Stress Revealed by Comparative Transcriptome Analysis" is accepted for publication in ***Frontiers in Marine Science***. Congratulations!<br/>
 <br/>
