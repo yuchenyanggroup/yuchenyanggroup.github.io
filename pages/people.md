@@ -36,13 +36,6 @@ description: Yang Group members
 
 <br/>
 <br/>
-
-<img align="left" src="../assets/Wenxu.jpeg" height="75" width="105" title="Wenxu Ren" alt="Wenxu Ren"/>
-     <b>&nbsp;&nbsp;&nbsp;Wen Xu</b> <br/>
-     &nbsp;&nbsp;&nbsp;Forth-year Undergraduate Student <br/>
-
-<br/>
-<br/>
 	    
 <img align="left" src="../assets/Minhong.jpeg" height="75" width="105" title="Minhong Fan" alt="Minhong Fan"/>
      <b>&nbsp;&nbsp;&nbsp;Minhong Fan</b> <br/>
@@ -62,14 +55,6 @@ description: Yang Group members
 <img align="left" src="../assets/Shan.jpeg" height="105" width="75" title="Shan Yang" alt="Shan Yang"/>
        <b>&nbsp;&nbsp;&nbsp;Shan Yang</b> <br/>
        &nbsp;&nbsp;&nbsp;Third-year Undergraduate Student <br/>
-
-<br/>
-<br/>
-<br/>
-
-<img align="left" src="../assets/Nuo.jpeg" height="95" width="100" title="Nuo Xu" alt="Nuo Xu"/>
-       <b>&nbsp;&nbsp;&nbsp;Nuo Xu</b> <br/>
-       &nbsp;&nbsp;&nbsp;Second-year Undergraduate Student <br/>
 
 <br/>
 <br/>
