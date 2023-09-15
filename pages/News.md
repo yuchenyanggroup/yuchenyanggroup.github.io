@@ -3,6 +3,14 @@ layout: page
 title: News
 ---
 ## 2023
+<b>September 12, 2023</b><br/> 
+Xinhui's research article "Somatic Embryogenesis and Plant Regeneration from Stem Explants of Pomegranate" is accepted for publication in ***Horticulturae***. Congratulations!<br/>
+<br/>
+
+<b>June 20, 2023</b><br/> 
+Yuqi's research article "Divergent MolecularResponses of Greater Amberjack (*Seriola dumerili*) to Acute Salinity Stress Revealed by Comparative Transcriptome Analysis" is accepted for publication in ***Frontiers in Marine Science***. Congratulations!<br/>
+<br/>
+
 <b>May 5, 2023</b><br/> 
 Yuqi's research article "Unraveling molecular mechanisms underlying low-temperature adaptation in *Laguncularia racemosa*" is accepted for publication in ***Plant Physiology and Biochemistry***. Congratulations!<br/>
 <br/>
