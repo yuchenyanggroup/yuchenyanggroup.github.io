@@ -36,13 +36,6 @@ description: Yang Group members
 
 <br/>
 <br/>
-	    
-<img align="left" src="../assets/Minhong.jpeg" height="75" width="105" title="Minhong Fan" alt="Minhong Fan"/>
-     <b>&nbsp;&nbsp;&nbsp;Minhong Fan</b> <br/>
-     &nbsp;&nbsp;&nbsp;Forth-year Undergraduate Student <br/>
-
-<br/>
-<br/>
 
 <img align="left" src="../assets/Xiaohui.jpeg" height="105" width="75" title="Xiaohui Zeng" alt="Xiaohui Zeng"/>
       <b>&nbsp;&nbsp;&nbsp;Xiaohui Zeng</b> <br/>
