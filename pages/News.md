@@ -3,6 +3,18 @@ layout: page
 title: News
 ---
 ## 2023
+<b>October 12, 2023</b><br/> 
+The research article "Comparative chloroplast genome analyses provide insights into evolutionary history of Rhizophoraceae mangroves" I co-first-authored is accepted for publication in ***PeerJ***. <br/>
+<br/>
+
+<b>October 10, 2023</b><br/> 
+The research article "Redox-active endosomes mediate a5b1 integrin signaling and promote chondrocyte matrix metalloproteinase production in osteoarthritis" I co-authored is accepted for publication in ***Science Signaling***. <br/>
+<br/>
+
+<b>September 26, 2023</b><br/> 
+Xinhui's research article "Unravelling Chilling-stress Resistance Mechanisms in Endangered Mangrove Plant *Lumnitzera littorea* (Jack) Voigt" is accepted for publication in ***Marine Environmental Research***. Congratulations!<br/>
+<br/>
+
 <b>September 12, 2023</b><br/> 
 Xinhui's research article "Somatic Embryogenesis and Plant Regeneration from Stem Explants of Pomegranate" is accepted for publication in ***Horticulturae***. Congratulations!<br/>
 <br/>
