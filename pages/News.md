@@ -2,7 +2,21 @@
 layout: page
 title: News
 ---
+## 2024
+
 ## 2023
+<b>December 27, 2023</b><br/> 
+The research article "A Universal Therapeutic STING Mimic Boosts Antitumor Immunity via Preferential Activation of IRF3/IFN-I Axis" I co-authored is accepted for publication in ***Nature Nanotechnology***. <br/>
+<br/>
+
+<b>December 20, 2023</b><br/> 
+The research article "Epigenetic regulation of cardiac maturation by arginine methyltransferase CARM1" I co-corresponding-authored is accepted for publication in ***Circulation***. <br/>
+<br/>
+
+<b>October 24, 2023</b><br/> 
+The research article "Comparative chloroplast genome analyses provide new insights into phylogeny of Taraxacum and molecular markers for distinguishing rubber producing dandelions from their weedy relatives" I co-corresponding-authored is accepted for publication in ***Industrial Crops & Products***. <br/>
+<br/>
+
 <b>October 12, 2023</b><br/> 
 The research article "Comparative chloroplast genome analyses provide insights into evolutionary history of Rhizophoraceae mangroves" I co-first-authored is accepted for publication in ***PeerJ***. <br/>
 <br/>
@@ -13,6 +27,10 @@ The research article "Redox-active endosomes mediate a5b1 integrin signaling and
 
 <b>September 26, 2023</b><br/> 
 Xinhui's research article "Unravelling Chilling-stress Resistance Mechanisms in Endangered Mangrove Plant *Lumnitzera littorea* (Jack) Voigt" is accepted for publication in ***Marine Environmental Research***. Congratulations!<br/>
+<br/>
+
+<b>September 16, 2023</b><br/> 
+The research article "Single-cell transcriptomic analysis of dental pulp and periodontal ligament stem cells" I co-first-authored is accepted for publication in ***Journal of Dental Research***. <br/>
 <br/>
 
 <b>September 12, 2023</b><br/> 
