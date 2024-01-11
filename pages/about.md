@@ -14,7 +14,8 @@ title: Yuchen Yang
 
 ### RESEARCH INTERESTS
 
-The focus of my research is on the development of statistical methods for single-cell RNA-seq (scRNA-seq) and chromatin interaction (Hi-C) data analysis, and their application to the genetic dissection of complex diseases and traits. In particular, I have developed single-cell aggregated clustering methods (implemented in software SAFE-clustering and SAME-clustering) for flexible, accurate and robust clustering scRNA-seq data. In addition, I also work on batch effect correction for single-cell RNA-seq data, which takes advantages of cell type/cluster information to guide supervised mutual nearest neighbor detection (SMNN method). More recently, I worked on the statistical framework for Hi-C peak calling (MUNIn program), and identifying and characterizing cardiovascular cell types in mouse and the wounding-related cell dynamics in zebrafish.
+The focus of my recent research is in developing innovative approaches to investigate the mechanisms underlying plant metabolism and environmental adaptation. Our goal is to understand the molecular basis of plant’s response to environmental stress (salt, heat, pollutes, etc.) and apply this knowledge to improve efficiency and ecological applicability of feature plants in ecosystem protection and environment repair. To achieve these goals, we utilize multi-omic technologies (RNA-seq, ATAC-seq, etc.) to discover the fundamental events and the basic mechanisms underlying the progression of various plant metabolisms and stress responses, such as plant hormone-mediated physiological and biochemical process, uptakes and efflux of heavy metal ions and so on. In addition, I also work on identifying and characterizing the genetic basis of plant’s circadian events, such as light and tide oscillations.
+
 
 ### PROFESSIONAL EXPERIENCE AND EDUCATION
 
