@@ -37,7 +37,7 @@ Our group has been actively participating in a number of collaborative researche
 <div class="container">
     <div class="row-fluid">
             <b>Email</b>: yangych68@mail.sysu.edu.cn<br/>
-            <b>Office</b>: Hedanqing 302, Sun Yat-sen University South Campus, Xingangxi Road No. 135, Guangzhou, Guangdong 510275<br/>
+            <b>Office</b>: Medicine Building No.2 - 1503B, Sun Yat-sen University Shenzhen Campus, Gongchang Road No. 66, Shenzhen, Guangdong 518000<br/>
             <b>GitHub</b>: <a href="https://yuchenyanggroup.github.io/">https://yuchenyanggroup.github.io/</a><br/>
     </div>
 </div>
