@@ -21,17 +21,21 @@ The focus of my recent research is in developing innovative approaches to invest
 
 <div class="container">
     <div class="row-fluid">
-            2020 - present:  <b>Research Assistant Professor</b><br/>
-            <a href="https://www.med.unc.edu/pathology/">Department of Pathology and Laboratory Medicine</a><br/>
-            <a href="https://www.med.unc.edu/mhi/">McAllister Heart Institute</a><br/>
-            University of North Carolina, Chapel Hill <br/><br/>
+            2021 - present:  <b>Associate Professor</b><br/>
+            <a href="https://eco.sysu.edu.cn/">School of Ecology</a><br/>
+            Sun Yat-sen University, Shenzhen, Guangdong, China<br/><br/>
     </div>
 </div>
+
+2020 - 2021:  <b>Research Assistant Professor</b><br/>
+    <a href="https://www.med.unc.edu/pathology/">Department of Pathology and Laboratory Medicine</a><br/>
+    <a href="https://www.med.unc.edu/mhi/">McAllister Heart Institute</a><br/>
+    University of North Carolina at Chapel Hill, Chapel Hill, NC, USA<br/>
 
 2016 - 2020:  <b>Postdoctoral Fellow</b><br/>
     Advisor: [Dr. Yun Li](https://www.med.unc.edu/genetics/directory/yun-li-phd/)<br/>
     <a href="https://www.med.unc.edu/genetics/">Department of Genetics</a><br/>
-    University of North Carolina, Chapel Hill<br/>
+    University of North Carolina at Chapel Hill, Chapel Hill, NC, USA<br/>
 
 2011 - 2016:  <b>Graduate/Ph.D. Student</b><br/>
     Major: Biochemistry and Molecular Biology<br/>
