@@ -5,10 +5,9 @@ title: Yuchen Yang
 
 <div class="container">
     <div class="row-fluid">
-            Research Assistant Professor<br/>
-            <a href="https://www.med.unc.edu/pathology/">Department of Pathology and Laboratory Medicine</a><br/>
-            <a href="https://www.med.unc.edu/mhi/">McAllister Heart Institute</a><br/>
-            University of North Carolina, Chapel Hill <br/><br/>
+            Associate Professor<br/>
+            <a href="https://eco.sysu.edu.cn/">School of Ecology</a><br/>
+            Sun Yat-sen University, Shenzhen, Guangdong, China<br/><br/>
     </div>
 </div>
 
@@ -19,13 +18,9 @@ The focus of my recent research is in developing innovative approaches to invest
 
 ### PROFESSIONAL EXPERIENCE AND EDUCATION
 
-<div class="container">
-    <div class="row-fluid">
-            2021 - present:  <b>Associate Professor</b><br/>
+2021 - present:  <b>Associate Professor</b><br/>
             <a href="https://eco.sysu.edu.cn/">School of Ecology</a><br/>
-            Sun Yat-sen University, Shenzhen, Guangdong, China<br/><br/>
-    </div>
-</div>
+            Sun Yat-sen University, Shenzhen, Guangdong, China<br/>
 
 2020 - 2021:  <b>Research Assistant Professor</b><br/>
     <a href="https://www.med.unc.edu/pathology/">Department of Pathology and Laboratory Medicine</a><br/>
