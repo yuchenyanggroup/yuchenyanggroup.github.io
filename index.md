@@ -20,18 +20,9 @@ Our group has been actively participating in a number of collaborative researche
 
 ### GROUP FUN
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="assets/group_fun.jpeg">
-            <img src="assets/group_fun.jpeg" height="300" width="600" title="Group Fun" alt="Group Fun"/>
-        </a>
-        </div>
-    </div>
-</div>
 <p float="left">
-    <img src="assets/group_fun.jpeg" height="300" width="620" title="Group Fun" alt="Group Fun"/>
-    <img src="assets/conference.jpeg" height="300" width="530" title="Group Fun" alt="Group Fun"/>
+    <img src="assets/group_fun.jpeg" height="300" width="560" title="Group Fun" alt="Group Fun"/>
+    <img src="assets/conference.jpeg" height="270" width="480" title="Group Fun" alt="Group Fun"/>
 </p>
 
 ---
