@@ -18,7 +18,7 @@ Our group has been actively participating in a number of collaborative researche
 
 ---
 
-### GROUP FUN
+### Team Events
 
 <p float="left">
     <img src="assets/group_fun.jpeg" height="240" width="498" title="Group Fun" alt="Group Fun"/>
