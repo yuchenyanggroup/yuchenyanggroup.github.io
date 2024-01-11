@@ -29,9 +29,10 @@ Our group has been actively participating in a number of collaborative researche
         </div>
     </div>
 </div>
-
-<img align="left" src="assets/group_fun.jpeg" height="300" width="600" title="Group Fun" alt="Group Fun"/>
-<img align="left" src="assets/conference.jpeg" height="300" width="600" title="Group Fun" alt="Group Fun"/>
+<p float="left">
+    <img align="left" src="assets/group_fun.jpeg" height="300" width="600" title="Group Fun" alt="Group Fun"/>
+    <img align="left" src="assets/conference.jpeg" height="300" width="500" title="Group Fun" alt="Group Fun"/>
+</p>
 
 ---
 
