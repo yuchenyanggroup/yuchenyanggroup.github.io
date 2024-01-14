@@ -14,10 +14,10 @@ title: Yang Group's publications
 <u>Lab Member</u>; &nbsp;&nbsp;&nbsp; &dagger;: Co-first authors; &nbsp;&nbsp;&nbsp; &sect;: Corresponding authors.
 
 ### Preprint
-<ol start="1" style="font-weight: bold; color:red;"> <li><span style="font-weight: normal;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2022+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
+<ol start="1" style="font-weight: bold;color: red;"> <li><span style="font-weight: normal;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2022+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
 
 ### 2024
-<ol start="69" style="font-weight: bold;"> <li><span style="font-weight: normal;"> Garbutt, T., Wang, Z., Ma, H., …, <b>Yang, Y.<sup>&sect;</sup></b>, Qian, L.<sup>&sect;</sup>, Liu, J.<sup>&sect;</sup> (2024) Epigenetic regulation of cardiac maturation by arginine methyltransferase CARM1. <i><b>Circulation</b></i>. Accepted. <<a href="https://peerj.com/articles/16400/#">link</a>></span></li></ol>
+<ol start="69" style="font-weight: bold;color: red;"> <li><span style="font-weight: normal;"> Garbutt, T., Wang, Z., Ma, H., …, <b>Yang, Y.<sup>&sect;</sup></b>, Qian, L.<sup>&sect;</sup>, Liu, J.<sup>&sect;</sup> (2024) Epigenetic regulation of cardiac maturation by arginine methyltransferase CARM1. <i><b>Circulation</b></i>. Accepted. <<a href="https://peerj.com/articles/16400/#">link</a>></span></li></ol>
 
 <ol start="68"> <li> Wang, Y., Hu, M., Li, S., <b>Yang, Y.</b>, McCabe, E., Zhang, L., Withrow, A., Ting, J., Liu. R. (2024) A Universal Therapeutic STING Mimic Boosts Antitumor Immunity via Preferential Activation of IRF3/IFN-I Axis. <i><b>Nature Nanotechnology</b></i>. Accepted. <<a href="https://peerj.com/articles/16400/#">link</a>></span></li></ol>
 
