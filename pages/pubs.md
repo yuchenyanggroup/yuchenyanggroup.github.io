@@ -174,4 +174,4 @@ title: Yang Group's publications
 
 <ol start="2"> <li>钟才荣, 李诗川, <b>杨宇晨</b>, 张影, 林作武. (2011) 红树植物拉关木的引种效果调查研究. <i><b>福建林业科技</b></i>, 38: 96-99.</li></ol>
 
-<ol start="1" style="font-weight: bold;color: rgb(139,0,0);"> <li><span style="font-weight: normal;color: black;"><b>杨宇晨</b>, 施苏华. (2011) 亟待保护的中国红树林. <i><b>生命世界</b></i>, 265: 84-87.</span></li></ol>
+<ol start="1" style="font-weight: bold;color: rgb(196,0,0);"> <li><span style="font-weight: normal;color: black;"><b>杨宇晨</b>, 施苏华. (2011) 亟待保护的中国红树林. <i><b>生命世界</b></i>, 265: 84-87.</span></li></ol>
