@@ -3,12 +3,15 @@ layout: page
 title: News
 ---
 ## 2024
+<b>January 30, 2024</b><br/> 
+The research article "Single-cell chromatin profiling reveals genetic programs activating pro-regenerative states in non-myocyte cells" I co-first-authored is accepted for publication in ***Science Advances***. <br/>
+<br/>
 
-## 2023
-<b>December 27, 2023</b><br/> 
+<b>January 30, 2024</b><br/> 
 The research article "A Universal Therapeutic STING Mimic Boosts Antitumor Immunity via Preferential Activation of IRF3/IFN-I Axis" I co-authored is accepted for publication in ***Nature Nanotechnology***. <br/>
 <br/>
 
+## 2023
 <b>December 20, 2023</b><br/> 
 The research article "Epigenetic regulation of cardiac maturation by arginine methyltransferase CARM1" I co-corresponding-authored is accepted for publication in ***Circulation***. <br/>
 <br/>
