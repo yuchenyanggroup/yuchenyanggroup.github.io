@@ -20,12 +20,14 @@ description: Yang Group members
 
 <br/>
 <br/>
+<br/>
 
 <img align="left" src="../assets/Xinhui_new.jpeg" height="105" width="75" title="Xinhui Xia" alt="Xinhui Xia"/>
      <b>&nbsp;&nbsp;&nbsp;Xinhui Xia</b> <br/>
      &nbsp;&nbsp;&nbsp;Graduate Student <br/>
      <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Post-transcriptional regulations of plant development and stress responses <br/> 
 
+<br/>
 <br/>
 <br/>
 
@@ -36,6 +38,7 @@ description: Yang Group members
 
 <br/>
 <br/>
+<br/>
 
 <img align="left" src="../assets/ruoyu.jpeg" height="105" width="77.464" title="Ruoyu Luo" alt="Ruoyu Luo"/>
      <b>&nbsp;&nbsp;&nbsp;Ruoyu Luo</b> <br/>
@@ -44,11 +47,13 @@ description: Yang Group members
 
 <br/>
 <br/>
+<br/>
 
 <img align="left" src="../assets/Panpan.jpeg" height="75" width="105" title="Panpan Zhang" alt="Panpan Zhang"/>
        <b>&nbsp;&nbsp;&nbsp;Panpan Zhang</b> <br/>
        &nbsp;&nbsp;&nbsp;Forth-year Undergraduate Student <br/>
 
+<br/>
 <br/>
 <br/>
 
@@ -74,6 +79,7 @@ description: Yang Group members
      <b>&nbsp;&nbsp;&nbsp;Chunyu Zhao</b> <br/>
      &nbsp;&nbsp;&nbsp;Undergraduate Student/Research Assistant <br/>
 
+<br/>
 <br/>
 <br/>
 
