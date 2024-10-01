@@ -40,7 +40,7 @@ description: Yang Group members
 <br/>
 <br/>
 
-<img align="left" src="../assets/ruoyu.jpeg" height="105" width="77.464" title="Ruoyu Luo" alt="Ruoyu Luo"/>
+<img align="left" src="../assets/ruoyu.jpg" height="105" width="77.464" title="Ruoyu Luo" alt="Ruoyu Luo"/>
      <b>&nbsp;&nbsp;&nbsp;Ruoyu Luo</b> <br/>
      &nbsp;&nbsp;&nbsp;Graduate Student <br/>
      <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Transcriptional adaptation to stress conditions in mangroves <br/> 
