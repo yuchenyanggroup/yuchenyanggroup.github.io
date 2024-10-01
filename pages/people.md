@@ -31,7 +31,7 @@ description: Yang Group members
 <br/>
 <br/>
 
-<img align="left" src="../assets/jiaxuan.jpeg" height="105" width="77.464" title="Jiaxuan Liu" alt="Jiaxuan Liu"/>
+<img align="left" src="../assets/jiaxuan.jpg" height="105" width="77.464" title="Jiaxuan Liu" alt="Jiaxuan Liu"/>
      <b>&nbsp;&nbsp;&nbsp;Jiaxuan Liu</b> <br/>
      &nbsp;&nbsp;&nbsp;Graduate Student <br/>
      <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Transcriptional adaptation to stress conditions in mangroves <br/> 
