@@ -16,7 +16,7 @@ description: Yang Group members
 <img align="left" src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/> 
     <b>&nbsp;&nbsp;&nbsp;Yuqi Liu</b> <br/>
     &nbsp;&nbsp;&nbsp;Graduate Student <br/>
-    <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Transcriptional adaptation to stress conditions <br/> 
+    <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Epigenetic adaptation to stress conditions <br/> 
 
 <br/>
 <br/>
@@ -29,27 +29,19 @@ description: Yang Group members
 <br/>
 <br/>
 
-<img align="left" src="../assets/chunyu.jpeg" height="105" width="77.464" title="Chunyu Zhao" alt="Chunyu Zhao"/>
-     <b>&nbsp;&nbsp;&nbsp;Chunyu Zhao</b> <br/>
-     &nbsp;&nbsp;&nbsp;Research Assistant <br/>
-     <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Alternative splicing regulation of stress responses <br/> 
+<img align="left" src="../assets/jiaxuan.jpeg" height="105" width="77.464" title="Jiaxuan Liu" alt="Jiaxuan Liu"/>
+     <b>&nbsp;&nbsp;&nbsp;Jiaxuan Liu</b> <br/>
+     &nbsp;&nbsp;&nbsp;Graduate Student <br/>
+     <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Transcriptional adaptation to stress conditions in mangroves <br/> 
 
 <br/>
 <br/>
 
-<img align="left" src="../assets/Xiaohui.jpeg" height="105" width="75" title="Xiaohui Zeng" alt="Xiaohui Zeng"/>
-      <b>&nbsp;&nbsp;&nbsp;Xiaohui Zeng</b> <br/>
-      &nbsp;&nbsp;&nbsp;Forth-year Undergraduate Student <br/>
+<img align="left" src="../assets/ruoyu.jpeg" height="105" width="77.464" title="Ruoyu Luo" alt="Ruoyu Luo"/>
+     <b>&nbsp;&nbsp;&nbsp;Ruoyu Luo</b> <br/>
+     &nbsp;&nbsp;&nbsp;Graduate Student <br/>
+     <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Transcriptional adaptation to stress conditions in mangroves <br/> 
 
-<br/>
-<br/>
-<br/>
-
-<img align="left" src="../assets/Shan.jpeg" height="105" width="75" title="Shan Yang" alt="Shan Yang"/>
-       <b>&nbsp;&nbsp;&nbsp;Shan Yang</b> <br/>
-       &nbsp;&nbsp;&nbsp;Forth-year Undergraduate Student <br/>
-
-<br/>
 <br/>
 <br/>
 
@@ -78,3 +70,26 @@ description: Yang Group members
 
 
 ## ALUMNI MEMBERS
+<img align="left" src="../assets/chunyu.jpeg" height="105" width="77.464" title="Chunyu Zhao" alt="Chunyu Zhao"/>
+     <b>&nbsp;&nbsp;&nbsp;Chunyu Zhao</b> <br/>
+     &nbsp;&nbsp;&nbsp;Research Assistant <br/>
+     <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Alternative splicing regulation of stress responses <br/> 
+
+<br/>
+<br/>
+
+<img align="left" src="../assets/Shan.jpeg" height="105" width="75" title="Shan Yang" alt="Shan Yang"/>
+       <b>&nbsp;&nbsp;&nbsp;Shan Yang</b> <br/>
+       &nbsp;&nbsp;&nbsp;Forth-year Undergraduate Student <br/>
+
+<br/>
+<br/>
+<br/>
+
+<img align="left" src="../assets/Xiaohui.jpeg" height="105" width="75" title="Xiaohui Zeng" alt="Xiaohui Zeng"/>
+      <b>&nbsp;&nbsp;&nbsp;Xiaohui Zeng</b> <br/>
+      &nbsp;&nbsp;&nbsp;Forth-year Undergraduate Student <br/>
+
+<br/>
+<br/>
+<br/>
