@@ -75,6 +75,14 @@ description: Yang Group members
 
 
 ## ALUMNI MEMBERS
+<img align="left" src="../assets/wenxu.jpeg" height="105" width="77.464" title="Wenxu Ren" alt="Wenxu Ren"/>
+     <b>&nbsp;&nbsp;&nbsp;Wenxu Ren</b> <br/>
+     &nbsp;&nbsp;&nbsp;Undergraduate Student <br/>
+
+<br/>
+<br/>
+<br/>
+
 <img align="left" src="../assets/chunyu.jpeg" height="105" width="77.464" title="Chunyu Zhao" alt="Chunyu Zhao"/>
      <b>&nbsp;&nbsp;&nbsp;Chunyu Zhao</b> <br/>
      &nbsp;&nbsp;&nbsp;Undergraduate Student/Research Assistant <br/>
