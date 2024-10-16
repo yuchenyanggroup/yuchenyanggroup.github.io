@@ -3,12 +3,20 @@ layout: page
 title: News
 ---
 ## 2024
-<b>January 30, 2024</b><br/> 
-The research article "Single-cell chromatin profiling reveals genetic programs activating pro-regenerative states in non-myocyte cells" I co-first-authored is accepted for publication in ***Science Advances***. <br/>
+<b>October 7, 2024</b><br/> 
+Yuqi's research article "Alternative splicing perspective to prey preference of environmentally friendly biological agent *Cryptolaemus montrouzieri*" is accepted for publication in ***BMC Genomics***. <br/>
 <br/>
 
-<b>January 30, 2024</b><br/> 
+<b>May 7, 2024</b><br/> 
+Chunyu and Yuqi's research article "Alternative splicing plays a nonredundant role in greater amberjack (*Seriola dumerili*) in acclimation to ambient salinity fluctuations" is accepted for publication in ***Marine Environmental Research***. <br/>
+<br/>
+
+<b>January 29, 2024</b><br/> 
 The research article "A Universal Therapeutic STING Mimic Boosts Antitumor Immunity via Preferential Activation of IRF3/IFN-I Axis" I co-authored is accepted for publication in ***Nature Nanotechnology***. <br/>
+<br/>
+
+<b>January 18, 2024</b><br/> 
+The research article "Single-cell chromatin profiling reveals genetic programs activating pro-regenerative states in non-myocyte cells" I co-first-authored is accepted for publication in ***Science Advances***. <br/>
 <br/>
 
 ## 2023
