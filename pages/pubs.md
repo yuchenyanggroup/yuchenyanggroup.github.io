@@ -26,7 +26,7 @@ title: Yang Group's publications
 <ol start="69" style="font-weight: bold;color: rgb(196,0,0);"> <li><span style="font-weight: normal;color: black;"> Garbutt, T., Wang, Z., Ma, H., …, <b>Yang, Y.<sup>&sect;</sup></b>, Qian, L.<sup>&sect;</sup>, Liu, J.<sup>&sect;</sup> (2024) Epigenetic regulation of cardiac maturation by arginine methyltransferase CARM1. <i><b>Circulation</b></i>, 149(19):1501–1515. <<a href="https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.121.055738">link</a>></span></li></ol>
 
 <ol start="68"> <li> Wang, Y., Hu, M., Li, S., <b>Yang, Y.</b>, McCabe, E., Zhang, L., Withrow, A., Ting, J., Liu. R. (2024) Universal STING mimic boosts antitumour immunity via preferential activation of tumour control signalling pathways
-. <i><b>Nature Nanotechnology</b></i>. doi: 10.1038/s41565-024-01624-2. PMID: 38480836. <<a href="https://www.nature.com/articles/s41565-024-01624-2">link</a>></span></li></ol>
+. <i><b>Nature Nanotechnology</b></i>, 19: 856–866. PMID: 38480836. <<a href="https://www.nature.com/articles/s41565-024-01624-2">link</a>></span></li></ol>
 
 <ol start="67" style="font-weight: bold;color: rgb(196,0,0);"> <li><span style="font-weight: normal;color: black;"> <b>Yang Y.<sup>&dagger;</sup></b>, Alves, T.<sup>&dagger;</sup>, Miao, M.Z., Wu, Y., Li, G., Lou, J., Hasturk, H., Van Dyke, T.E., Kantarci, A.<sup>&sect;</sup>, Wu, D.<sup>&sect;</sup> (2023) Single-cell transcriptomic analysis of dental pulp and periodontal ligament stem cells. <i><b>Journal of Dental Research</b></i>, 103: 71-80. PMID: 37982164. <<a href="https://journals.sagepub.com/doi/10.1177/00220345231205283">link</a>></span></li></ol>
   
