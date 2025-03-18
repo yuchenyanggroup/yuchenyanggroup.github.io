@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/54c95095-5fd5-43e5-b001-00cdf52fab15)---
 layout: page
 title: Yang Group's publications
 ---
@@ -16,7 +16,12 @@ title: Yang Group's publications
 ### Preprint
 <ol start="1" style="font-weight: bold;color: rgb(196,0,0);"> <li><span style="font-weight: normal;color: black;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2022+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
 
+### 2025
+<ol start="73" style="font-weight: bold;color: rgb(196,0,0);"> <li><span style="font-weight: normal;color: black;"> <u>Liu, Y.</u>, <u>Xia, X.</u>, <u>Ren, W.</u>, Hong, X., Tang, X., Pang, H., <b>Yang, Y.<sup>&sect;</sup></b> (2024) Alternative splicing perspective to prey preference of environmentally friendly biological agent <i>Cryptolaemus montrouzieri</i>. <i><b>BMC Genomics</b></i>, 25, 967. PMID: 39407100. <<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-10870-6">link</a>></span></li></ol>
+
 ### 2024
+<ol start="72" style="font-weight: bold;color: rgb(196,0,0);"> <li><span style="font-weight: normal;color: black;"> <u>Liu, Y.</u>, <u>Xia, X.</u>, <u>Ren, W.</u>, Hong, X., Tang, X., Pang, H., <b>Yang, Y.<sup>&sect;</sup></b> (2024) Comparative Plastome Analysis Between Endangered Mangrove Species <i>Acanthus ebracteatus</i> and <i>Acanthus</i> Relatives Provides Insights into Its Origin and Adaptive Evolution. <i><b>Ecology and Evolution</b></i>, 14, e70566. PMID: 39568763. <<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-10870-6">link</a>></span></li></ol>
+
 <ol start="72" style="font-weight: bold;color: rgb(196,0,0);"> <li><span style="font-weight: normal;color: black;"> <u>Liu, Y.</u>, <u>Xia, X.</u>, <u>Ren, W.</u>, Hong, X., Tang, X., Pang, H., <b>Yang, Y.<sup>&sect;</sup></b> (2024) Alternative splicing perspective to prey preference of environmentally friendly biological agent <i>Cryptolaemus montrouzieri</i>. <i><b>BMC Genomics</b></i>, 25, 967. PMID: 39407100. <<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-10870-6">link</a>></span></li></ol>
 
 <ol start="71" style="font-weight: bold;color: rgb(196,0,0);"> <li><span style="font-weight: normal;color: black;"> Zhang, Y., Zhang, J., Chen, Z., Huang, Y., <u>Liu, J.</u>, <u>Liu, Y.</u>, Yang, Y., Jin, X., <b>Yang, Y.<sup>&sect;</sup></b>, Chen, Y.<sup>&sect;</sup> (2024) Comparison of organelle genomes between endangered mangrove plant <i>Dolichandrone spathacea</i> to terrestrial relative provides insights into its origin and adaptative evolution. <i><b>Frontiers in Plant Science</b></i>, 15, 1442178. PMID: 39376234. <<a href="https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1442178/full">link</a>></span></li></ol>
