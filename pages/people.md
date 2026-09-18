@@ -13,24 +13,6 @@ description: Yang Group members
 <br/>
 
 
-<img align="left" src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/> 
-    <b>&nbsp;&nbsp;&nbsp;Yuqi Liu</b> <br/>
-    &nbsp;&nbsp;&nbsp;Graduate Student <br/>
-    <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Epigenetic adaptation to stress conditions <br/> 
-
-<br/>
-<br/>
-<br/>
-
-<img align="left" src="../assets/Xinhui_new.jpeg" height="105" width="75" title="Xinhui Xia" alt="Xinhui Xia"/>
-     <b>&nbsp;&nbsp;&nbsp;Xinhui Xia</b> <br/>
-     &nbsp;&nbsp;&nbsp;Graduate Student <br/>
-     <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Post-transcriptional regulations of plant development and stress responses <br/> 
-
-<br/>
-<br/>
-<br/>
-
 <img align="left" src="../assets/jiaxuan.jpg" height="105" width="105" title="Jiaxuan Liu" alt="Jiaxuan Liu"/>
      <b>&nbsp;&nbsp;&nbsp;Jiaxuan Liu</b> <br/>
      &nbsp;&nbsp;&nbsp;Graduate Student <br/>
@@ -49,9 +31,30 @@ description: Yang Group members
 <br/>
 <br/>
 
+
+
+## ALUMNI MEMBERS
+<img align="left" src="../assets/Yuqi.jpeg" height="105" width="75" title="Yuqi Liu" alt="Yuqi Liu"/> 
+    <b>&nbsp;&nbsp;&nbsp;Yuqi Liu</b> <br/>
+    &nbsp;&nbsp;&nbsp;Graduate Student <br/>
+    <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Epigenetic adaptation to stress conditions <br/> 
+
+<br/>
+<br/>
+<br/>
+
+<img align="left" src="../assets/Xinhui_new.jpeg" height="105" width="75" title="Xinhui Xia" alt="Xinhui Xia"/>
+     <b>&nbsp;&nbsp;&nbsp;Xinhui Xia</b> <br/>
+     &nbsp;&nbsp;&nbsp;Graduate Student <br/>
+     <b>&nbsp;&nbsp;&nbsp;Research topic:</b> Post-transcriptional regulations of plant development and stress responses <br/> 
+
+<br/>
+<br/>
+<br/>
+
 <img align="left" src="../assets/Panpan.jpeg" height="75" width="105" title="Panpan Zhang" alt="Panpan Zhang"/>
        <b>&nbsp;&nbsp;&nbsp;Panpan Zhang</b> <br/>
-       &nbsp;&nbsp;&nbsp;Forth-year Undergraduate Student <br/>
+       &nbsp;&nbsp;&nbsp;Undergraduate Student <br/>
 
 <br/>
 <br/>
@@ -59,7 +62,7 @@ description: Yang Group members
 
 <img align="left" src="../assets/Yutong.jpeg" height="105" width="75" title="Yutong Li" alt="Yutong Li"/>
        <b>&nbsp;&nbsp;&nbsp;Yutong Li</b> <br/>
-       &nbsp;&nbsp;&nbsp;Forth-year Undergraduate Student <br/>
+       &nbsp;&nbsp;&nbsp;Undergraduate Student <br/>
 
 <br/>
 <br/>
@@ -67,25 +70,7 @@ description: Yang Group members
 
 <img align="left" src="../assets/Chunqian.jpeg" height="75" width="105" title="Chunxi Liang" alt="Chunxi Liang"/>
        <b>&nbsp;&nbsp;&nbsp;Chunxi Liang</b> <br/>
-       &nbsp;&nbsp;&nbsp;Forth-year Undergraduate Student <br/>
-
-<br/>
-<br/>
-<br/>
-
-
-## ALUMNI MEMBERS
-<img align="left" src="../assets/wenxu.jpg" height="105" width="77.464" title="Wenxu Ren" alt="Wenxu Ren"/>
-     <b>&nbsp;&nbsp;&nbsp;Wenxu Ren</b> <br/>
-     &nbsp;&nbsp;&nbsp;Undergraduate Student <br/>
-
-<br/>
-<br/>
-<br/>
-
-<img align="left" src="../assets/chunyu.jpeg" height="105" width="77.464" title="Chunyu Zhao" alt="Chunyu Zhao"/>
-     <b>&nbsp;&nbsp;&nbsp;Chunyu Zhao</b> <br/>
-     &nbsp;&nbsp;&nbsp;Undergraduate Student/Research Assistant <br/>
+       &nbsp;&nbsp;&nbsp;Undergraduate Student <br/>
 
 <br/>
 <br/>
@@ -106,3 +91,20 @@ description: Yang Group members
 <br/>
 <br/>
 <br/>
+
+<img align="left" src="../assets/wenxu.jpg" height="105" width="77.464" title="Wenxu Ren" alt="Wenxu Ren"/>
+     <b>&nbsp;&nbsp;&nbsp;Wenxu Ren</b> <br/>
+     &nbsp;&nbsp;&nbsp;Undergraduate Student <br/>
+
+<br/>
+<br/>
+<br/>
+
+<img align="left" src="../assets/chunyu.jpeg" height="105" width="77.464" title="Chunyu Zhao" alt="Chunyu Zhao"/>
+     <b>&nbsp;&nbsp;&nbsp;Chunyu Zhao</b> <br/>
+     &nbsp;&nbsp;&nbsp;Undergraduate Student/Research Assistant <br/>
+
+<br/>
+<br/>
+<br/>
+
