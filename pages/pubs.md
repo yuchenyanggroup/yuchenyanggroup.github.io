@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Yang Group's publications [SCI: 84 (47); 中文期刊: 3 (2)]"
+title: "Yang Group's publications"
+subtitle: "[SCI: 84 (47); 中文期刊: 3 (2)]"
 ---
 
 <div class="navbar">
