@@ -1,4 +1,4 @@
----
+<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/74c99f0d-2c27-435f-a80e-2bf4144c53d1" /><img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/a7bff1ee-5629-4f81-b775-f542d206fd11" />---
 layout: page
 title: "Yang Group's publications"
 subtitle: "[SCI: 84 (47); 中文期刊: 3 (2)]"
@@ -18,6 +18,8 @@ subtitle: "[SCI: 84 (47); 中文期刊: 3 (2)]"
 <ol start="1" style="font-weight: bold;color: rgb(196,0,0);"> <li><span style="font-weight: normal;color: black;">Giusti-Rodríguez, P.<sup>&dagger;</sup>, Lu, L.<sup>&dagger;</sup>, <b>Yang, Y.<sup>&dagger;</sup></b>, ..., Sullivan, P. (2022+) Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/406330v1.full">link</a>></span></li></ol>
 
 ### 2026
+<ol start="88"> <li><span style="font-weight: normal;color: black;"> Xu, J., Liao, Q., Wang, J., <b>Yang, Y.</b>, Zou, Y., Yuanyuan Bie, Y., Wang, Z. (2026) Splicing suppression alters the STING transcription start site to attenuate antiviral innate immunity. <i><b>Proceedings of the National Academy of Sciences of the USA</b></i>, 123 (39), e2613025123. PMID: . <<a href="https://www.pnas.org/doi/10.1073/pnas.2613025123">link</a>></span></li></ol>
+
 <ol start="87" style="font-weight: bold;color: rgb(196,0,0);"> <li><span style="font-weight: normal;color: black;"> <u>Yang, S.<sup>&dagger;</sup></u>, <u>Xia, X.<sup>&dagger;</sup></u>, <u>Zeng, X.</u>, Zhang, Y., Li, G., Zhao, L., <b>Yang, Y.<sup>&sect;</sup></b> (2026) Transcriptional memory of the pioneer mangrove <i>Avicennia marina</i> to repeated submergence stress. <i><b>Industrial Crops and Products</b></i>, 252, 124318. <<a href="https://www.sciencedirect.com/science/article/pii/S0926669026017073">link</a>></span></li></ol>
 
 <ol start="86" style="font-weight: bold;color: rgb(196,0,0);"> <li><span style="font-weight: normal;color: black;"> Du, Y., Shi, T., Huang, K., Zou, A., <b>Yang, Y.<sup>&sect;</sup></b>, Liao, H.<sup>&sect;</sup> (2026) Transposon-linked plasticity may contribute to drought tolerance in a pantropical invader, <i>Mikania micrantha</i>. <i><b>Annals of Botany</b></i>, 29, 115539. PMID: 42006376. <<a href="https://academic.oup.com/aob/advance-article-abstract/doi/10.1093/aob/mcag278/8776225?redirectedFrom=fulltext">link</a>></span></li></ol>
