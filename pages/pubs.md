@@ -1,7 +1,7 @@
 <img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/74c99f0d-2c27-435f-a80e-2bf4144c53d1" /><img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/a7bff1ee-5629-4f81-b775-f542d206fd11" />---
 layout: page
 title: "Yang Group's publications"
-subtitle: "[SCI: 84 (47); 中文期刊: 3 (2)]"
+subtitle: "[SCI: 85 (47); 中文期刊: 3 (2)]"
 ---
 
 <div class="navbar">
